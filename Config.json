@@ -1,8 +1,7 @@
 {
-  "_comment": "Each resource has urls per language as an array \u2014 tried in order until one succeeds. saveToDb=true means data gets synced to SQLite.",
+  "_comment": "REMOTE PRODUCTION — URLs ending in sync.json save to SQLite.",
   "resources": {
     "songs": {
-      "saveToDb": true,
       "urls": {
         "te": [
           "https://raw.githubusercontent.com/rajee062-prog/church360/refs/heads/main/Songs/songs_te_a.json",
@@ -14,7 +13,6 @@
       }
     },
     "verses": {
-      "saveToDb": true,
       "urls": {
         "te": [
           "https://raw.githubusercontent.com/rajee062-prog/church360/refs/heads/main/Verse/verses_te.json"
@@ -24,8 +22,17 @@
         ]
       }
     },
+    "dailyVerse": {
+      "urls": {
+        "te": [
+          "https://raw.githubusercontent.com/rajee062-prog/church360/refs/heads/main/DailyVerse/dailyVerse_te.json"
+        ],
+        "en": [
+          "https://raw.githubusercontent.com/rajee062-prog/church360/refs/heads/main/DailyVerse/dailyVerse_en.json"
+        ]
+      }
+    },
     "stories": {
-      "saveToDb": true,
       "urls": {
         "te": [
           "https://raw.githubusercontent.com/rajee062-prog/church360/refs/heads/main/Stories/stories_te.json"
@@ -36,7 +43,6 @@
       }
     },
     "languages": {
-      "saveToDb": true,
       "urls": {
         "default": [
           "https://raw.githubusercontent.com/rajee062-prog/church360/refs/heads/main/lang_sync.json"
@@ -44,7 +50,6 @@
       }
     },
     "sponsored": {
-      "saveToDb": false,
       "urls": {
         "default": [
           "https://raw.githubusercontent.com/rajee062-prog/church360/refs/heads/main/spnsoredImages.json"
