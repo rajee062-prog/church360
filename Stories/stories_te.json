@@ -1,1 +1,86 @@
 
+{
+  "songs": [
+    {
+      "id": 1,
+      "artist": "Hillsong Worship, హిల్స్లోన్గ్  వర్షిప్ Yes",
+      "writer": "Freddy Paul, ఫ్రెడ్డీ పాల్ ",
+      "album": "Grace Collection,గ్రేస్ కలెక్షన్",
+      "composer": "Rajesh,రాజేష్",
+      "duration": 300,
+      "audioUrl": "https://example.com/audio/amazing-grace.mp3",
+      "coverUrl": "https://example.com/covers/amazing-grace.jpg",
+      "releaseDate": "2018-01-01",
+      "ogLang": "te",
+      "genre": "Worship,ఆరాధనా",
+      "lyrics": [
+        {
+          "songId": 1,
+          "language": "en",
+          "title": "Amazing Grace",
+          "lyric": "Amazing grace how sweet the sound\nThat saved a wretch like me\nI once was lost but now am found\nWas blind but now I see"
+        },
+        {
+          "songId": 1,
+          "language": "te",
+          "title": "అద్భుత కృప ఎంత మధురము నన్ను రక్షించిన కృప",
+          "lyric": "అద్భుత కృప ఎంత మధురము\nనన్ను రక్షించిన కృప\nఒకప్పుడు నేను పోయిన వాడిని\nఇప్పుడు కనుగొనబడిన వాడిని అద్భుత కృప ఎంత మధురము\nనన్ను రక్షించిన కృప\nఒకప్పుడు నేను పోయిన వాడిని\nఇప్పుడు కనుగొనబడిన వాడిని అద్భుత కృప ఎంత మధురము\nనన్ను రక్షించిన కృప\nఒకప్పుడు నేను పోయిన వాడిని\nఇప్పుడు కనుగొనబడిన వాడిని అద్భుత కృప ఎంత మధురము\nనన్ను రక్షించిన కృప\nఒకప్పుడు నేను పోయిన వాడిని\nఇప్పుడు కనుగొనబడిన వాడిని అద్భుత కృప ఎంత మధురము\nనన్ను రక్షించిన కృప\nఒకప్పుడు నేను పోయిన వాడిని\nఇప్పుడు కనుగొనబడిన వాడిని"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "artist": "Chris Tomlin,క్రిస్ టామ్లిన్",
+      "writer": "Matt Redman,మాట్ రెడీమన్",
+      "album": "Blessed Songs",
+      "composer": "Rajesh,రాజేష్",
+      "duration": 280,
+      "audioUrl": "https://example.com/audio/ten-thousand-reasons.mp3",
+      "coverUrl": "https://example.com/covers/ten-thousand-reasons.jpg",
+      "releaseDate": "2016-05-10",
+      "genre": "Praise,స్తోత్రం",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 2,
+          "language": "en",
+          "title": "padhi Thousand Reasons",
+          "lyric": "padhi the Lord O my soul\nO my soul\nWorship His holy name\nSing like never before"
+        },
+        {
+          "songId": 2,
+          "language": "te",
+          "title": "పది వేల కారణాలు",
+          "lyric": "నా ఆత్మా యెహోవాను స్తుతించుము\nఆయన పరిశుద్ధ నామాన్ని ఆరాధించుము\nఇంతకు ముందు లేనట్లుగా పాడుము"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "artist": "Hillsong Worship, హిల్స్లోన్గ్  వర్షిప్ Yes",
+      "writer": "Freddy Paul, ఫ్రెడ్డీ పాల్ ",
+      "album": "Grace Collection,గ్రేస్ కలెక్షన్",
+      "composer": "Rajesh,రాజేష్",
+      "duration": 300,
+      "audioUrl": "https://example.com/audio/amazing-grace.mp3",
+      "coverUrl": "https://example.com/covers/amazing-grace.jpg",
+      "releaseDate": "2018-01-01",
+      "genre": "Worship,ఆరాధనా",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 6,
+          "language": "en",
+          "title": "Amazing Grace",
+          "lyric": "Amazing grace how sweet the sound\nThat saved a wretch like me\nI once was lost but now am found\nWas blind but now I see"
+        },
+        {
+          "songId": 6,
+          "language": "te",
+          "title": "అద్భుత కృప ఎంత మధురము నన్ను రక్షించిన కృప",
+          "lyric": "అద్భుత కృప ఎంత మధురము\nనన్ను రక్షించిన కృప\nఒకప్పుడు నేను పోయిన వాడిని\nఇప్పుడు కనుగొనబడిన వాడిని అద్భుత కృప ఎంత మధురము\nనన్ను రక్షించిన కృప\nఒకప్పుడు నేను పోయిన వాడిని\nఇప్పుడు కనుగొనబడిన వాడిని అద్భుత కృప ఎంత మధురము\nనన్ను రక్షించిన కృప\nఒకప్పుడు నేను పోయిన వాడిని\nఇప్పుడు కనుగొనబడిన వాడిని అద్భుత కృప ఎంత మధురము\nనన్ను రక్షించిన కృప\nఒకప్పుడు నేను పోయిన వాడిని\nఇప్పుడు కనుగొనబడిన వాడిని అద్భుత కృప ఎంత మధురము\nనన్ను రక్షించిన కృప\nఒకప్పుడు నేను పోయిన వాడిని\nఇప్పుడు కనుగొనబడిన వాడిని"
+        }
+      ]
+    }
+  ]
+}
