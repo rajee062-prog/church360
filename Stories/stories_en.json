@@ -1,0 +1,70 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "title": "Finding Peace in the Storm",
+      "content": "Life often brings unexpected storms that test our faith and resilience. Just as Jesus calmed the storm on the Sea of Galilee, He can bring peace to the turbulent moments in our lives. When we feel overwhelmed by circumstances beyond our control, we can find comfort in knowing that the same God who commanded the winds and waves to be still is with us today. Through prayer and trust, we can experience His supernatural peace that surpasses all understanding.",
+      "author": "Pastor Michael Johnson",
+      "imageUrl": "https://picsum.photos/400/300?random=10",
+      "images": [
+        "https://picsum.photos/800/400?random=20",
+        "https://picsum.photos/800/400?random=30"
+      ],
+      "category": "Faith",
+      "readTime": 5
+    },
+    {
+      "id": 2,
+      "title": "The Power of Forgiveness",
+      "content": "Forgiveness is one of the most powerful gifts we can give ourselves and others. When we hold onto hurt and resentment, we become prisoners of our own making. But when we choose to forgive, we break free from the chains that bind us. Jesus taught us to forgive not just seven times, but seventy times seven. This doesn't mean we forget or excuse wrongdoing, but rather we release the burden of bitterness and allow God's healing to flow through our hearts.",
+      "author": "Sister Mary Grace",
+      "imageUrl": "https://picsum.photos/400/300?random=11",
+      "images": [
+        "https://picsum.photos/800/400?random=20",
+        "https://picsum.photos/800/400?random=30"
+      ],
+      "category": "Healing",
+      "readTime": 4
+    },
+    {
+      "id": 3,
+      "title": "Walking by Faith",
+      "content": "Abraham left everything he knew to follow God's call to an unknown land. His journey teaches us that faith often requires stepping into the unknown with nothing but God's promise to guide us. In our modern world, walking by faith might mean trusting God with our careers, relationships, or major life decisions. It's about believing that even when we can't see the whole staircase, God will illuminate the next step. Faith isn't the absence of doubt; it's choosing to trust God despite our questions.",
+      "author": "Rev. David Thompson",
+      "imageUrl": "https://picsum.photos/400/300?random=12",
+      "images": [
+        "https://picsum.photos/800/400?random=20",
+        "https://picsum.photos/800/400?random=30"
+      ],
+      "category": "Journey",
+      "readTime": 6
+    },
+    {
+      "id": 4,
+      "title": "Grace in the Wilderness",
+      "content": "The wilderness seasons of life - those dry, difficult periods where God seems distant - are often where we experience the most growth. Just as the Israelites wandered in the desert for 40 years, we too have our wilderness experiences. But it's in these barren places that God teaches us to depend on Him completely. He provides manna for today, not tomorrow. He gives us just enough light for the step we're on. The wilderness strips away our self-sufficiency and teaches us that His grace is sufficient.",
+      "author": "Elder Sarah Williams",
+      "imageUrl": "https://picsum.photos/400/300?random=13",
+      "images": [
+        "https://picsum.photos/800/400?random=20",
+        "https://picsum.photos/800/400?random=30"
+      ],
+      "category": "Growth",
+      "readTime": 7
+    },
+    {
+      "id": 5,
+      "title": "The Ministry of Presence",
+      "content": "Sometimes the most powerful way to show God's love is simply to be present with someone in their pain. Job's friends sat with him in silence for seven days before speaking. Jesus wept with Mary and Martha at Lazarus's tomb. There's a sacred ministry in just showing up, in sitting with someone in their grief without trying to fix or explain. Our presence can be a tangible reminder of God's presence, a living testimony that they are not alone in their valley.",
+      "author": "Deacon Robert Chen",
+      "imageUrl": "https://picsum.photos/400/300?random=14",
+      "images": [
+        "https://picsum.photos/800/400?random=1",
+        "https://picsum.photos/400/300?random=2",
+        "https://picsum.photos/400/300?random=3"
+      ],
+      "category": "Service",
+      "readTime": 5
+    }
+  ]
+}
