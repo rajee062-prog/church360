@@ -1,1 +1,47 @@
 
+{
+  "songs": [
+    {
+      "id": 1,
+      "artist": "Hillsong Worship, హిల్స్లోన్గ్  వర్షిప్ Yes",
+      "writer": "Freddy Paul, ఫ్రెడ్డీ పాల్ ",
+      "album": "Grace Collection,గ్రేస్ కలెక్షన్",
+      "composer": "Rajesh,రాజేష్",
+      "duration": 300,
+      "audioUrl": "https://example.com/audio/amazing-grace.mp3",
+      "coverUrl": "https://example.com/covers/amazing-grace.jpg",
+      "releaseDate": "2018-01-01",
+      "genre": "Worship,ఆరాధనా",
+      "ogLang": "en",
+      "lyrics": [
+        {
+          "songId": 1,
+          "language": "en",
+          "title": "This is English",
+          "lyric": "Amazing grace how sweet the sound\nThat saved a wretch like me\nI once was lost but now am found\nWas blind but now I see"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "artist": "Chris Tomlin,క్రిస్ టామ్లిన్",
+      "writer": "Matt Redman,మాట్ రెడీమన్",
+      "album": "Blessed Songs",
+      "composer": "Rajesh,రాజేష్",
+      "duration": 280,
+      "audioUrl": "https://example.com/audio/ten-thousand-reasons.mp3",
+      "coverUrl": "https://example.com/covers/ten-thousand-reasons.jpg",
+      "releaseDate": "2016-05-10",
+      "genre": "Praise,స్తోత్రం",
+      "ogLang": "en",
+      "lyrics": [
+        {
+          "songId": 2,
+          "language": "en",
+          "title": "English2",
+          "lyric": "padhi the Lord O my soul\nO my soul\nWorship His holy name\nSing like never before"
+        }
+      ]
+    }
+  ]
+}
