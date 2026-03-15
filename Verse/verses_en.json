@@ -1,0 +1,44 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "text": "For I know the plans I have for you, declares the Lord, plans for welfare and not for evil, to give you a future and a hope.",
+      "reference": "Jeremiah 29:11",
+      "date": "2024-01-16",
+      "theme": "Hope",
+      "reflection": "God has a purpose and plan for each of our lives. Even in difficult times, we can trust that He is working for our good."
+    },
+    {
+      "id": 2,
+      "text": "The Lord is my shepherd; I shall not want. He makes me lie down in green pastures. He leads me beside still waters.",
+      "reference": "Psalm 23:1-2",
+      "date": "2026-03-15",
+      "theme": "Peace",
+      "reflection": "In God's care, we find everything we need. He provides rest, peace, and guidance through life's journey."
+    },
+    {
+      "id": 3,
+      "text": "I can do all things through Christ who strengthens me.",
+      "reference": "Philippians 4:13",
+      "date": "2024-01-17",
+      "theme": "Strength",
+      "reflection": "Our strength doesn't come from ourselves but from Christ who empowers us to face any challenge."
+    },
+    {
+      "id": 4,
+      "text": "Trust in the Lord with all your heart, and do not lean on your own understanding.",
+      "reference": "Proverbs 3:5",
+      "date": "2024-01-18",
+      "theme": "Trust",
+      "reflection": "True wisdom comes from trusting God completely, even when we don't understand His ways."
+    },
+    {
+      "id": 5,
+      "text": "Be strong and courageous. Do not fear or be in dread of them, for it is the Lord your God who goes with you.",
+      "reference": "Deuteronomy 31:6",
+      "date": "2024-01-19",
+      "theme": "Courage",
+      "reflection": "We can face any situation with courage because God is with us every step of the way."
+    }
+  ]
+}
