@@ -1,83 +1,1352 @@
 {
   "songs": [
     {
+      "id": 1,
+      "artist": null,
+      "writer": "దియ్యా ప్రసాద రావు,Diyya Prasada Rao",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=abS94naDsms",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 1,
+          "language": "te",
+          "title": "దేవునికి భయపడవా మానవా",
+          "lyric": "దేవునికి భయపడవా మానవా\nనీ దేవునికి భయపడవా మానవా (2)\nపాపాన్ని విడువుమా – ప్రభు చెంత చేరుమా (2)\nయేసయ్యను నీవు శరణు వేడుమా (2)       ||దేవునికి||\n\nఐగుప్తు మంత్రసానుల గమనించితివా\nరాజాజ్ఞను సైతము అతిక్రమించిరి (2)\nదేవునికి విధేయత చూపిరి\nవంశాభివృద్ధిని పొందిరి (2)      ||దేవునికి||\n\nనినెవె ప్రజలను గమనించితివా\nదేవుని మాటకు లోబడినారు (2)\nపాపమును విడిచి ఉపవాసముండి\nప్రార్థించి ప్రభు దీవెన పొందిరి (2)       ||దేవునికి||"
+        },
+        {
+          "songId": 1,
+          "language": "en",
+          "title": "Devuniki Bhayapadavaa Maanavaa",
+          "lyric": "Devuniki Bhayapadavaa Maanavaa\nNee Devuniki Bhayapadavaa Maanavaa (2)\nPaapaanni Viduvumaa – Prabhu Chentha Cherumaa (2)\nYesayyanu Neevu Sharanu Vedumaa (2)      ||Devuniki||\n\nAigupthu Manthrasaanula Gamaninchithivaa\nRaajaagnanu Saithamu Athikraminchiri (2)\nDevuniki Vidheyatha Choopiri\nVamshaabhivrudhdhini Pondiri (2)       ||Devuniki||\n\nNeeneve Prajalanu Gamaninchithivaa\nDevuni Maataku Lobadinaaru (2)\nPaapamunu Vidichi Upavaasamundi\nPraarthinchi Prabhu Deevena Pondiri (2)       ||Devuniki||"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=c1682XT_ahc",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 2,
+          "language": "te",
+          "title": "రాకడ ప్రభుని రాకడ",
+          "lyric": "రాకడ ప్రభుని రాకడ\nరాకడ రెండవ రాకడ\nఏ దినమో ఏ ఘడియో (2) ఎవ్వరు ఎరుగనిది\nరెప్పపాటున కాలమున తప్పక వచ్చునది ||రాకడ||\n\nనోవాహు దినములలో జరిగినట్లుగా\nలోతు కాలమున సాగినట్లుగా (2)\nపాపమందు ప్రజలంతా మునిగి తేలగా\nలోకమంతా దేవుని మరచియుండగా (2)\nమధ్యాకాశమునకు ప్రభువు వచ్చుగా\nమహిమతో తన ప్రజల చేర పిలుచుగా (2)      ||రాకడ||\n\nదేవుని మరచిన ప్రజలందరిని\nసువార్తకు లోబడని జనులందరిని (2)\nశ్రమల పాలు చేయను ప్రభువు వచ్చును\nఅగ్ని జ్వాలలతో అవని కాల్చును (2)\nవేదనతో భూమినంత బాధపరచును\nతన మహిమను ప్రజలకు తెలియపరచును (2)       ||రాకడ||"
+        },
+        {
+          "songId": 2,
+          "language": "en",
+          "title": "Raakada Prabhuni Raakada",
+          "lyric": "Raakada Prabhuni Raakada\nRaakada Rendava Raakada\nAe Dinamo Ae Ghadiyo (2) Evvaru Eruganidi\nReppapaatuna Kaalamuna Thappaka Vachchunadi     ||Raakada||\n\nNovaahu Dinamulalo Jariginatlugaa\nLothu Kaalamuna Saaginatlugaa (2)\nPaapamandu Prajalantha Munigi Thelagaa\nLokamantha Devuni Marachiyundagaa (2)\nMadhyaakaashamunaku Prabhuvu Vachchugaa\nMahimatho Thana Prajala Chera Piluchugaa (2)      ||Raakada||\n\nDevuni Marachina Prajalandarini\nSuvaarthaku Lobadani Janulandarini (2)\nShramala Paalu Cheyanu Prabhuvu Vachchunu\nAgni Jwaalalatho Avani Kaalchunu (2)\nVedanatho Bhoominantha Baadhaparachunu\nThana Mahimanu Prajalaku Theliyaparachunu (2)     ||Raakada||"
+        }
+      ]
+    },
+    {
       "id": 3,
-      "artist": "Hillsong Worship, హిల్స్లోన్గ్  వర్షిప్ ",
-      "writer": "Freddy Paul, ఫ్రెడ్డీ పాల్ ",
-      "album": "Grace Collection,గ్రేస్ కలెక్షన్",
-      "composer": "Rajesh,రాజేష్",
-      "duration": 300,
-      "audioUrl": "https://example.com/audio/amazing-grace.mp3",
-      "coverUrl": "https://example.com/covers/amazing-grace.jpg",
-      "releaseDate": "2018-01-01",
-      "genre": "Worship,ఆరాధనా",
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=pbiHPm--y58",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
       "ogLang": "te",
       "lyrics": [
         {
           "songId": 3,
-          "language": "en",
-          "title": "Amazing Grace",
-          "lyric": "Amazing grace how sweet the sound\nThat saved a wretch like me\nI once was lost but now am found\nWas blind but now I see"
+          "language": "te",
+          "title": "స్తుతులకు పాత్రుడు యేసయ్యా",
+          "lyric": "స్తుతులకు పాత్రుడు యేసయ్యా\nస్తుతి కీర్తనలు నీకేనయ్యా (2)\nమహిమకు పాత్రుడు ఆయనయ్యా\nకీర్తియు ఘనతయు రాజునకే\n\nనే పాడెద ప్రభు సన్నిధిలో\nనే ఆడెద ప్రభు సముఖములో\nచిన్ని బిడ్డను పోలి నే (2)\n\nస్తుతి చెల్లించెద యేసయ్యా\nమహిమకు పాత్రుడు మెస్సయ్యా (2)\nనిరతము పాడెద హల్లెలూయా\nఆల్ఫా ఓమెగయు నీవేనయ్యా          ||నే పాడెద||"
         },
         {
           "songId": 3,
-          "language": "te",
-          "title": "అద్భుత కృప ఎంత మధురము నన్ను రక్షించిన కృప",
-          "lyric": "అద్భుత కృప ఎంత మధురము\nనన్ను రక్షించిన కృప\nఒకప్పుడు నేను పోయిన వాడిని\nఇప్పుడు కనుగొనబడిన వాడిని అద్భుత కృప ఎంత మధురము\nనన్ను రక్షించిన కృప\nఒకప్పుడు నేను పోయిన వాడిని\nఇప్పుడు కనుగొనబడిన వాడిని అద్భుత కృప ఎంత మధురము\nనన్ను రక్షించిన కృప\nఒకప్పుడు నేను పోయిన వాడిని\nఇప్పుడు కనుగొనబడిన వాడిని అద్భుత కృప ఎంత మధురము\nనన్ను రక్షించిన కృప\nఒకప్పుడు నేను పోయిన వాడిని\nఇప్పుడు కనుగొనబడిన వాడిని అద్భుత కృప ఎంత మధురము\nనన్ను రక్షించిన కృప\nఒకప్పుడు నేను పోయిన వాడిని\nఇప్పుడు కనుగొనబడిన వాడిని"
+          "language": "en",
+          "title": "Sthuthulaku Paathrudu Yesayyaa",
+          "lyric": "స్తుతులకు పాత్రుడు యేసయ్యా\nస్తుతి కీర్తనలు నీకేనయ్యా (2)\nమహిమకు పాత్రుడు ఆయనయ్యా\nకీర్తియు ఘనతయు రాజునకే\n\nనే పాడెద ప్రభు సన్నిధిలో\nనే ఆడెద ప్రభు సముఖములో\nచిన్ని బిడ్డను పోలి నే (2)\n\nస్తుతి చెల్లించెద యేసయ్యా\nమహిమకు పాత్రుడు మెస్సయ్యా (2)\nనిరతము పాడెద హల్లెలూయా\nఆల్ఫా ఓమెగయు నీవేనయ్యా          ||నే పాడెద||"
         }
       ]
     },
     {
       "id": 4,
-      "artist": "Chris Tomlin,క్రిస్ టామ్లిన్",
-      "writer": "Matt Redman,మాట్ రెడీమన్",
-      "album": "Blessed Songs",
-      "composer": "Rajesh,రాజేష్",
-      "duration": 280,
-      "audioUrl": "https://example.com/audio/ten-thousand-reasons.mp3",
-      "coverUrl": "https://example.com/covers/ten-thousand-reasons.jpg",
-      "releaseDate": "2016-05-10",
-      "genre": "Praise,స్తోత్రం",
+      "artist": null,
+      "writer": "Unknown,Unknown",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=8XovFKASr1g",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
       "ogLang": "te",
       "lyrics": [
         {
           "songId": 4,
-          "language": "en",
-          "title": "padhi Thousand Reasons",
-          "lyric": "padhi the Lord O my soul\nO my soul\nWorship His holy name\nSing like never before"
+          "language": "te",
+          "title": "యేసు మంచి దేవుడు",
+          "lyric": "యేసు మంచి దేవుడు – ప్రేమగల దేవుడు\nయేసు గొప్ప దేవుడు – పరలోకమిచ్చు నాథుడు (2)\nఎంత పాపినైననూ చెంత జేర్చుకోనును\nచింతలన్ని బాపి శాంతినిచ్చును (2)       ||యేసు మంచి||"
         },
         {
           "songId": 4,
-          "language": "te",
-          "title": "పది వేల కారణాలు",
-          "lyric": "నా ఆత్మా యెహోవాను స్తుతించుము\nఆయన పరిశుద్ధ నామాన్ని ఆరాధించుము\nఇంతకు ముందు లేనట్లుగా పాడుము"
+          "language": "en",
+          "title": "Yesu Manchi Devudu Premagala Devudu",
+          "lyric": "Yesu Manchi Devudu – Premagala Devudu\nYesu Goppa Devudu – Paralokamichchu Naathudu (2)\nEntha Paapinainanuu Chentha Jerchukonunu\nChinthalanni Baapi Shaanthinichchunu (2)      ||Yesu Manchi||\n\nShaashwathamaina Prematho\nNinnu Nannu Preminchaadu (2)\nSiluvalo Praanamunu Baligaa Ichchaadu\nThana Rakthamutho Ninnu Nannu Konnaadu (2)      ||Yesu Manchi||\n\nShaanthi Smaadhaanam Manakichchaadu\nSamatha Mamatha Nerpinchaadu (2)\nMaargamu Sathyamu Jeevamainaadu\nMaanavaalike Praanamainaadu (2)       ||Yesu Manchi||"
         }
       ]
     },
     {
       "id": 5,
-      "artist": "Chris Tomlin,క్రిస్ టామ్లిన్",
-      "writer": "Matt Redman,మాట్ రెడీమన్",
-      "album": "Blessed Songs",
-      "composer": "Rajesh,రాజేష్",
-      "duration": 280,
-      "audioUrl": "https://example.com/audio/ten-thousand-reasons.mp3",
-      "coverUrl": "https://example.com/covers/ten-thousand-reasons.jpg",
-      "releaseDate": "2016-05-10",
-      "genre": "Praise,స్తోత్రం",
+      "artist": null,
+      "writer": "Unknown,Unknown",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=V7DKg3TtFYw",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
       "ogLang": "te",
       "lyrics": [
         {
           "songId": 5,
-          "language": "en",
-          "title": "padhi Thousand Reasons",
-          "lyric": "padhi the Lord O my soul\nO my soul\nWorship His holy name\nSing like never before"
+          "language": "te",
+          "title": "తండ్రి నా యేసయ్యా నీకే ఆరాధనా ",
+          "lyric": "తండ్రి నా యేసయ్యా – నీకే ఆరాధనా (4)\nనను కన్న తండ్రివి – నను కొన్న తండ్రివి\nనా హృదయపు ఆరాధనా\n\nఆరాధనా ఆరాధనా\nఆరాధనా ఆరాధనా\n\nకన్నీరు తుడిచే నా యేసయ్యా\nఆదరించే నా సహాయమా (2)      ||ఆరాధనా||\n\nనీతియు న్యాయము నీవే కదా\nనిను నమ్మిన నాకు నిత్యజీవము (2)     ||ఆరాధనా||"
         },
         {
           "songId": 5,
+          "language": "en",
+          "title": "Thandri Naa Yesayyaa Neeke Aaraadhanaa (4)",
+          "lyric": "Thandri Naa Yesayyaa – Neeke Aaraadhanaa (4)\nNanu Kannna Thandrivi – Nanu Konnna Thandrivi\nNaa Hrudayapu Aaraadhanaa\n\nAaraadhanaa Aaraadhanaa\nAaraadhanaa Aaraadhanaa\n\nKanneeru Thudiche Naa Yesayyaa\nAadarinche Naa Sahaayamaa (2)      ||Aaraadhanaa||\n\nNeethiyu Nyaayamu Neeve Kadaa\nNinu Nammina Naaku Nithyajeevamu (2)     ||Aaraadhanaa||"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=X-4lUhsTiw0",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 6,
           "language": "te",
-          "title": "పది వేల కారణాలు",
-          "lyric": "నా ఆత్మా యెహోవాను స్తుతించుము\nఆయన పరిశుద్ధ నామాన్ని ఆరాధించుము\nఇంతకు ముందు లేనట్లుగా పాడుము"
+          "title": "మార్పుచెందవా నీవు మర్పుచెందవా",
+          "lyric": "మార్పుచెందవా నీవు మర్పుచెందవా\nనీ బ్రతుకు మార్చుకోవా (2)\nఅనుకూల సమయం ఇదియేనని ఎరిగి\nమారు మనసునూ పొందవా (2)\n\nఎన్నాళ్ళు నీవు జీవించినాగాని\nఏమున్నది ఈ లోకంలో\nఇన్నాళ్ళు నీవు చేసిన క్రియలన్నిటికి\nతీర్పున్నది పై లోకంలో (2)\nతీర్పు దినమునందున ఆయన ముందు నీవు\nనిలిచే ధైర్యం నీకుందా (2)\nనిలిచే ధైర్యం నీకుందా ||మార్పుచెందవా||\n\nదిగంబరిగానే వచ్చావు నీవు\nదిగంబరిగా పోతావు\nమన్నైన నీవు మన్నై పోతావు\nఏదో ఒక దినమందున (2)\nనీ ఆస్తి అంతస్తు నీ అంద చందాలు\nనీవెంట రావెన్నడు (2)\nనీవెంట రావెన్నడు ||మార్పుచెందవా||\n\nఆత్మని కాక దేహాన్ని చంపే\nమనుషులకే భయపడకయ్యా\nఆత్మతో పాటు నీ దేహాన్ని చంపే\nదేవునికే భయపడవయ్యా (2)\nదేవుడిచ్చిన ఆత్మ దేవుని యొద్దకే చేరు\nనీకంటూ ఏముందిలే (2)\nనీకంటూ ఏముందిలే ||మార్పుచెందవా||"
+        },
+        {
+          "songId": 6,
+          "language": "en",
+          "title": "Maarpuchendavaa Neevu Marpuchendavaa",
+          "lyric": "Maarpuchendavaa Neevu Marpuchendavaa\nNee Brathuku Maarchukovaa (2)\nAnukoola Samayam Idiyenani Erigi\nMaaru Manassunuu Pondavaa (2)\n\nEnnaallu Neevu Jeevinchinaagaani\nEmunnadi Ee Lokamlo\nInnallu Neevu Chesina Kriyalannitiki\nTheerpunnadi Pai Lokamlo (2)\nTheerpu Dinamunanduna Aayana Mundu Neevu\nNiliche Dhairyam Neekundaa (2)\nNiliche Dhairyam Neekundaa ||Maarpuchendavaa||\n\nDigambarigaane Vachchaavu Neevu\nDigambarigaa Pothaavu\nMannaina Neevu Mannai Pothaavu\nEdo Oka Dinamanduna (2)\nNee Aasthi Anthasthu Nee Anda Chandaalu\nNeeventa Raavennadu (2)\nNeeventa Raavennadu ||Maarpuchendavaa||\n\nAathmani Kaaka Dehaanni Champe\nManushulake Bhayapadakayyaa\nAathmatho Paatu Nee Dehaanni Champe\nDevunike Bhayapadavayyaa (2)\nDevudichchina Aathma Devuni Yoddake Cheru\nNeekantu Emundile (2)\nNeekantu Emundile ||Maarpuchendavaa||"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "artist": null,
+      "writer": "ఆంధ్ర క్రైస్తవ కీర్తనలు, Andhra Kraisthava Keerthanalu",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=de0HMNdkFzU",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "ఆంధ్ర క్రైస్తవ కీర్తనలు, Andhra Kraisthava Keerthanalu",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 7,
+          "language": "te",
+          "title": "దేవునికి స్తోత్రము గానము చేయుటయే మంచిది",
+          "lyric": "దేవునికి స్తోత్రము గానము చేయుటయే మంచిది\nమనమందరము స్తుతిగానము చేయుటయే మంచిది\n\nయెరుషలేము యెహోవాయే కట్టుచున్నవాడని\nఇశ్రయేలీయులను పోగుచేయువాడని                ||దేవునికి||\n\nగుండె చెదరిన వారిని బాగుచేయువాడని\nవారి గాయములన్నియు కట్టుచున్నవాడని        ||దేవునికి||\n\nనక్షత్రముల సంఖ్యను ఆయనే నియమించును\nవాటికన్నియు పేరులు పెట్టుచున్నవాడని           ||దేవునికి||\n\nప్రభువు గొప్పవాడును అధిక శక్తి సంపన్నుడు\nజ్ఞానమునకు ఆయనే మితియు లేనివాడని         ||దేవునికి||\n\nదీనులకు అండాయెనే భక్తిహీనుల కూల్చును\nసితారాతో దేవుని స్తుతులతో కీర్తించుడి               ||దేవునికి||\n\nఆయన ఆకాశమున్ మేఘములతో కప్పును\nభూమికొరకు వర్షము సిద్ధపరచువాడని              ||దేవునికి||\n\nపర్వతములలో గడ్డిని పశువులకు మొలపించెను\nఅరచు పిల్లకాకులకును ఆహారము తానీయును  ||దేవునికి||\n\nగుర్రముల నరులందలి బలము నానందించడు\nకృప వేడు వారిలో సంతసించువాడని                ||దేవునికి||\n\nయెరుషలేము యెహోవను సీయోను నీ దేవుని\nకీర్తించుము కొనియాడుము ఆనందించువాడని    ||దేవునికి||\n\nపిల్లల నాశీర్వదించియు బలపరచు నీ గుమ్మముల్\nమంచి గోధుమపంటతో నిన్ను తృప్తిగనుంచును   ||దేవునికి||\n\nభూమికి తనయాజ్ఞను ఇచ్చువాడు ఆయనే\nవేగముగను దేవుని వాక్యము పరుగెత్తును         ||దేవునికి||\n\nవాక్యమును యాకోబుకు తెలియచేసినవాడని\nఏ జనముకీలాగున చేసియుండలేదని               ||దేవునికి||"
+        },
+        {
+          "songId": 7,
+          "language": "en",
+          "title": " Devuniki Sthothramu Gaanamu Cheyutaye Manchidi",
+          "lyric": "Devuniki Sthothramu Gaanamu Cheyutaye Manchidi\nManamandaramu Sthuthigaanamu Cheyutaye Manchidi\n\nYerushalemu Yehovaye Kattuchunnavaadani\nIshrayeleeyulanu Pogucheyuvaadani         ||Devuniki||\n\nGunde Chedarina Vaarini Baagucheyuvaadani\nVaari Gaayamulanniyu Kattuchunnavaadani   ||Devuniki||\n\nNakshathramula Sankhyanu Aayane Niyaminchunu\nVaatikanniyu Perulu Pettuchunnavaadani       ||Devuniki||\n\nPrabhuvu Goppavaadunu Adhika Shakthi Sampannudu\nGnaanamunaku Aayane Mithiyu Lenivaadani    ||Devuniki||\n\nDeenulaku Andaayene Bhakthiheenula Koolchunu\nSithaaraatho Devuni Sthuthulatho Keerthinchudi    ||Devuniki||\n\nAayana Aakaashamun Meghamulatho Kappunu\nBhoomikoraku Varshamu Sidhdhaparachuvaadani     ||Devuniki||\n\nParvathamulalo Gaddini Pashuvulaku Molapinchenu\nArachu Pillakaakulakunu Aahaaramu Thaaneeyunu     ||Devuniki||\n\nGurramula Narulandali Balamu Naanandinchadu\nKrupa Vedu Vaarilo Santhasinchuvaadani         ||Devuniki||\n\nYerushalemu Yehovaanu Seeyonu Nee Devuni\nKeerthinchumu Koniyaadumu Aanandinchuvaadani   ||Devuniki||\n\nPillala Naasheervadinchiyu Balaparachu Nee Gummamul\nManchi Godhumapantatho Ninnu Thrupthiganunchunu    ||Devuniki||\n\nBhoomiki Thanayaagnanu Ichchuvaadu Aayane\nVegamugamu Devuni Vaakyamu Parugeththunu        ||Devuniki||\n\nVaakyamunu Yaakobuku Theliyachesinavaadani\nAe Janamukeelaaguna Chesiyundaledani           ||Devuniki||"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "artist": null,
+      "writer": "ఎస్ జె బెర్క్మన్స్ ,S J Berchmans",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=5Rsz_U8GhTc",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 8,
+          "language": "te",
+          "title": "కుతూహలం ఆర్భాటమే  నా యేసుని సన్నిధిలో",
+          "lyric": "కుతూహలం ఆర్భాటమే – నా యేసుని సన్నిధిలో\nఆనందమానందమే – నా యేసుని సన్నిధిలో (2)          ||కుతూహలం||\n\nపాపమంత పోయెను – రోగమంత పోయెను\nయేసుని రక్తములో\nక్రీస్తునందు జీవితం – కృప ద్వారా రక్షణ\nపరిశుద్ధ ఆత్మలో (2)                  ||కుతూహలం ||\n\nదేవాది దేవుడు – ప్రతిరోజు నివసించు\nదేవాలయం మనమే\nఆత్మయైన దేవుడు – మన సొంతమాయెను\nఆశ్చర్యమాశ్చర్యమే (2)               ||కుతూహలం||\n\nశక్తినిచ్చు యేసు – జీవమిచ్చు యేసు\nజయంపై జయం ఇచ్చును\nఏకముగా కూడి – హోసన్నా పాడి\nఊరంతా చాటెదము (2)                      ||కుతూహలం||"
+        },
+        {
+          "songId": 8,
+          "language": "en",
+          "title": "Kuthoohalam Aarbhaatame Naa Yesuni Sannidhilo",
+          "lyric": "Kuthoohalam Aarbhaatame Naa Yesuni Sannidhilo\nAanandamaanandame Naa Yesuni Sannidhilo (2)\n                                                                 ||Kuthoohalam||\n\nPaapamantha Poyenu Rogamantha Poyenu\nYesuni Rakthamulo\nKreesthunandu Jeevitham Krupa Dvaaraa Rakshana\nParishudhdha Aathmalo (2)                          ||Kuthoohalam||\n\nDevaadhi Devudu Prathi Roju Nivasinche\nDevaalayam Nene\nAathma Aina Devudu Mana Sonthamaayenu\nAascharyamaascharyame (2)                       ||Kuthoohalam||\n\nShakthi Nichchu Yesu Jeevamichchu Yesu\nJayampai Jayam Ichchunu\nEkamugaa Koodi Hosanna Paadi\nOoranthaa Chaatedamu (2)                          ||Kuthoohalam||"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "artist": null,
+      "writer": "ఆంధ్ర క్రైస్తవ కీర్తనలు,Andhra Kraisthava Keerthanalu   Telugu Lyrics   సాగిలపడి మ్రొక్కెదము సత్యముతో ఆత్మలో మన ప్రభు యేసుని ఆ ఆ ఆఆ  (2)               ||సాగిలపడి||",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=oXRUq1yELVo",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 9,
+          "language": "te",
+          "title": "సాగిలపడి మ్రొక్కెదము",
+          "lyric": "సాగిలపడి మ్రొక్కెదము సత్యముతో ఆత్మలో\nమన ప్రభు యేసుని ఆ ఆ ఆఆ (2)              ||సాగిలపడి||\n\nమోషేకంటే శ్రేష్టుడు\nఅన్ని మోసములనుండి విడిపించున్ (2)\nవేషధారులను ద్వేషించున్\nఆశతో మ్రొక్కెదము (2)             ||సాగిలపడి||\n\nఅహరోనుకంటే శ్రేష్టుడు\nమన ఆరాధనకు పాత్రుండు (2)\nఆయనే ప్రధాన యాజకుడు\nఅందరము మ్రొక్కెదము (2)       ||సాగిలపడి||\n\nఆలయముకన్న శ్రేష్టుడు\nనిజ ఆలయముగ తానే యుండెన్ (2)\nఆలయము మీరేయనెను\nఎల్లకాలము మ్రొక్కెదము (2)     ||సాగిలపడి||\n\nయోనా కంటె శ్రేష్టుడు\nప్రాణ దానముగా తన్ను అర్పించెన్ (2)\nమానవులను విమోచించెన్\nఘనపరచి మ్రొక్కెదము (2)        ||సాగిలపడి||\n\nసొలోమోను కన్న శ్రేష్ఠుడు\nసర్వజ్ఞానమునకు ఆధారుండు (2)\nపదివేలలో అతిప్రియుండు\nపదిలముగ మ్రొక్కెదము (2)        ||సాగిలపడి||\n\nరాజులకంటే శ్రేష్ఠుడు\nయాజకులనుగా మనలను చేసెన్ (2)\nరారాజుగ త్వరలో వచ్చున్\nరయముగను మ్రొక్కెదము (2)        ||సాగిలపడి||\n\nఅందరిలో అతి శ్రేష్ఠుడు\nమనకందరికి తానే ప్రభువు (2)\nహల్లెలూయకు పాత్రుండు\nఅనుదినము మ్రొక్కెదము (2)        ||సాగిలపడి||"
+        },
+        {
+          "songId": 9,
+          "language": "en",
+          "title": "Saagilapadi Mrokkedamu",
+          "lyric": "Saagilapadi Mrokkedamu\nSathyamutho Aathmalo\nMana Prabhu Yesuni Aa Aa Aaa (2)         ||Saagilapadi||\n\nMoshekante Shreshtudu\nAnni Mosamulanundi Vidipinchun (2)\nVeshadhaarulanu Dveshinchun\nAashatho Mrokkedamu (2)               ||Saagilapadi||\n\nAharonukante Shreshtudu\nMana Aaraadhanaku Paathrundu (2)\nAayane Pradhaana Yaajakudu\nAndaramu Mrokkedamu (2)              ||Saagilapadi||\n\nAalayamukanna Shreshtudu\nNija Aalayamuga Thaane Yunden (2)\nAalayamu Meere Yanenu\nEllakaalamu Mrokkedamu (2)           ||Saagilapadi||\n\nYonaakante Shreshtudu\nPraana Daanamugaa Thannu Arpinchen (2)\nMaanavulanu Vimochinchen\nGhanaparachi Mrokkedamu (2)       ||Saagilapadi||\n\nSolomonu Kanna Sreshtudu\nSarva Gnaanamunaku Aadhaarundu (2)\nPadivelalo Athi Priyundu\nPadilamugaa Mrokkedamu (2)       ||Saagilapadi||\n\nRaajula Kante Sreshtudu\nYaajakulanugaa Manalanu Chesen (2)\nRaarajuga Thvaralo Vachchun\nRayamuganu Mrokkedamu (2)       ||Saagilapadi||\n\nAndarilo Athi Sreshtudu\nManakandariki Thaane Prabhuvu (2)\nHallelooyaku Paathrundu\nAnudinamu Mrokkedamu (2)       ||Saagilapadi||"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "artist": null,
+      "writer": "Unknown,UnKnown",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": null,
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 10,
+          "language": "te",
+          "title": "సీయోను పాటలు సంతోషముగా",
+          "lyric": "సీయోను పాటలు సంతోషముగా\nపాడుచు సీయోను వెల్లుదము (2)\n\nలోకాన శాశ్వతానందమేమియు\nలేదని చెప్పెను ప్రియుడేసు (2)\nపొందవలె నీ లోకమునందు\nకొంతకాలమెన్నో శ్రమలు (2)       ||సీయోను||\n\nఐగుప్తును విడచినట్టి మీరు\nఅరణ్యవాసులే ఈ ధరలో (2)\nనిత్యనివాసము లేదిలలోన\nనేత్రాలు కానానుపై నిల్పుడి (2)   ||సీయోను||\n\nమారాను పోలిన చేదైన స్థలముల\nద్వారా పోవలసియున్ననేమి (2)\nనీ రక్షకుండగు యేసే నడుపును\nమారని తనదు మాట నమ్ము (2) ||సీయోను||\n\nఐగుప్తు ఆశలనన్నియు విడిచి\nరంగుగ యేసుని వెంబడించి (2)\nపాడైన కోరహు పాపంబుమాని\nవిధేయులై విరాజిల్లుడి (2)          ||సీయోను||\n\nఆనందమయ పరలోకంబు మనది\nఅక్కడనుండి వచ్చునేసు (2)\nసీయోను గీతము సొంపుగ కలసి\nపాడెదము ప్రభుయేసుకు జై (2)   ||సీయోను||"
+        },
+        {
+          "songId": 10,
+          "language": "en",
+          "title": "Seeyonu Paatalu Santhoshamugaa",
+          "lyric": "Seeyonu Paatalu Santhoshamugaa\nPaaduchu Seeyonu Velludamu (2)\n\nLokaana Shaashvathaanandamemiyu\nLedani Cheppenu Priyudesu (2)\nPondavale Nee Lokamunandu\nKonthakaalamenno Shramalu (2)   ||Seeyonu||\n\nAiguputhunu Vidachinatti Meeru\nAranyavaasule Ee Dharalo (2)\nNithyanivaasamu Ledilalona\nNethraalu Kaanaanupai Nilpudi (2)   ||Seeyonu||\n\nMaaraanupolina Chedaina Sthalamula\nDvaaraa Povalasiyunnanemi (2)\nNee Rakshakundagu Yese Nadupunu\nMaarani Thanadu Maata Nammu (2)    ||Seeyonu||\n\nAiguputhu Aashalananniyu Vidichi\nRanguga Yesuni Vembadinchi (2)\nPaadaina Korahu Paapambumaani\nVidheyulai Viraajilludi (2)   ||Seeyonu||\n\nAanandamaya Paralokambu Manadi\nAkkadanundi Vachchunesu (2)\nSeeyonu Geethamu Sompuga Kalasi\nPaadedamu Prabhuyesuku Jai (2)   ||Seeyonu||"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "artist": null,
+      "writer": "ఆంధ్ర క్రైస్తవ కీర్తనలు,Andhra Kraisthava Keerthanalu",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=MF4SBVxgIDM",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 11,
+          "language": "te",
+          "title": "దేవుని స్తుతియించుడి",
+          "lyric": "దేవుని స్తుతియించుడి\nఎల్లప్పుడు దేవుని స్తుతియించుడి        ||దేవుని||\n\nఆయన పరిశుద్ధ ఆలయమందు (2)\nఆయన సన్నిధిలో ఆ… ఆ… (2)      ||ఎల్లప్పుడు||\n\nఆయన బలమును ప్రసిద్ధి చేయు (2)\nఆకశవిశాలమందు ఆ… ఆ… (2)      ||ఎల్లప్పుడు||\n\nఆయన పరాక్రమ కార్యములన్ బట్టి (2)\nఆయన ప్రభావమును ఆ… ఆ… (2)  ||ఎల్లప్పుడు||\n\nబూరధ్వనితో ఆయనన్ స్తుతించుడి (2)\nస్వరమండలములతో ఆ… ఆ… (2)   ||ఎల్లప్పుడు||\n\nసన్న తంతుల సితారతోను (2)\nచక్కని స్వరములతో ఆ… ఆ… (2)    ||ఎల్లప్పుడు||\n\nతంబురతోను నాట్యముతోను (2)\nతంతి వాద్యములతో ఆ… ఆ… (2)     ||ఎల్లప్పుడు||\n\nపిల్లనగ్రోవుల చల్లగనూది (2)\nఎల్లప్రజలు జేరి ఆ… ఆ… (2)           ||ఎల్లప్పుడు||\n\nమ్రోగుతాళములతో ఆయనన్ స్తుతించుడి (2)దేవుని స్తుతియించుడి\nఎల్లప్పుడు దేవుని స్తుతియించుడి        ||దేవుని||\nగంభీర తాళముతో ఆ… ఆ… (2)       ||ఎల్లప్పుడు||\n\nసకల ప్రాణులు యెహోవన్ స్తుతించుడి (2)\nహల్లెలూయా ఆమెన్ ఆ… ఆ… (2)    ||ఎల్లప్పుడు||"
+        },
+        {
+          "songId": 11,
+          "language": "en",
+          "title": "Seeyonu Paatalu Santhoshamugaa",
+          "lyric": "Devuni Sthuthiyinchudi\nEllappudu Devuni Sthuthiyinchudi ||Devuni||\n\nAayana Parishudhdha Aalayamandu (2)\nAayana Sannidhilo Aa Aa (2) ||Ellappudu||\n\nAayana Balamunu Prasidhdhi Cheyu (2)\nAakashavishaalamandu Aa Aa (2) ||Ellappudu||\n\nAayana Paraakrama Kaaryamulan Batti (2)\nAayana Prabhavamunu Aa Aa (2) ||Ellappudu||\n\nBooradhvanitho Aayanan Sthuthinchudi (2)\nSvaramandalamulatho Aa Aa (2) ||Ellappudu||\n\nSanna Thanthula Sithaarathonu (2)\nChakkani Svaramulatho Aa Aa (2) ||Ellappudu||\n\nThamburathonu Naatyamuthonu (2)\nThanthi Vaadyamuthonu Aa Aa (2) ||Ellappudu||\n\nPillanagrovula Challaganoodi (2)\nEllaprajalu Jeri Aa Aa (2) ||Ellappudu||\n\nMroguthaalamulatho Aayanan Sthuthinchudi (2)\nGambheera Thaalamutho Aa Aa (2) ||Ellappudu||\n\nSakala Praanulu Yehovan Sthuthinchudi (2)\nHallelooyaa Aamen Aa Aa (2) ||Ellappudu||"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "artist": null,
+      "writer": "వై బాబ్జి,Y Babji",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=ofOnx3dv58Q",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 12,
+          "language": "te",
+          "title": "ఇదిగో దేవా నా జీవితం",
+          "lyric": "ఇదిగో దేవా నా జీవితం\nఆపాదమస్తకం నీకంకితం (2)\nశరణం నీ చరణం (4)                       ||ఇదిగో||\n\nపలుమార్లు వైదొలగినాను\nపరలోక దర్శనమునుండి\nవిలువైన నీ దివ్య పిలుపుకు\nనే తగినట్లు జీవించనైతి (2)\nఅయినా నీ ప్రేమతో\nనన్ను దరిచేర్చినావు\nఅందుకే గైకొనుము దేవా\nఈ నా శేష జీవితం        ||ఇదిగో||\n\nనీ పాదముల చెంత చేరి\nనీ చిత్తంబు నేనెరుగ నేర్పు\nనీ హృదయ భారంబు నొసగి\nప్రార్థించి పనిచేయనిమ్ము (2)\nఆగిపోక సాగిపోవు\nప్రియసుతునిగా పనిచేయనిమ్ము\nప్రతి చోట నీ సాక్షిగా\nప్రభువా నన్నుండనిమ్ము      ||ఇదిగో||\n\nవిస్తార పంట పొలము నుండి\nకష్టించి పని చేయ నేర్పు\nకన్నీటితో విత్తు మనసు\nకలకాలం మరి నాకు నొసగు (2)\nక్షేమ క్షామ కాలమైనా\nనిన్ను ఘనపరచు బతుకునిమ్మయ్యా\nనశియించే ఆత్మలన్\nనీ దరి చేర్చు కృపనిమ్మయ్యా         ||ఇదిగో||"
+        },
+        {
+          "songId": 12,
+          "language": "en",
+          "title": "Idigo Devaa Naa Jeevitham",
+          "lyric": "Idigo Devaa Naa Jeevitham\nAapaadamasthakam Neekankitham (2)\nSharanam Nee Charanam (4)     ||Idigo||\n\nPalumaarlu Vaidolaginaanu\nParaloka Darshanamunundi\nViluvaina Nee Divya Pilupuku\nNe Thaginatlu Jeevinchanaithi (2)\nAinaa Nee Prematho\nNannu Dari Cherchinaavu\nAnduke Gaikonumu Devaa\nEe Naa Shesha Jeevitham      ||Idigo||\n\nNee Paadamula Chentha Cheri\nNee Chiththambu Neneruga Nerpu\nNee Hrudaya Bhaarambu Nosagi\nPraardhinchi Panicheyanimmu (2)\nAagipoka Saagipovu\nPriyasuthuniga Panicheyanimmu\nPrathi Chota Nee Saakshigaa\nPrabhuvaa Nannundanimmu     ||Idigo||\n\nVisthaara Panta Polamu Nundi\nKashtinchi Pani Cheya Nerpu\nKanneetitho Vitthu Manasu\nKalakaalam Mari Naaku Nosagu (2)\nKshema Kshaama Kaalamainaa\nNinnu Ghanaparachu Bathukunimmayyaa\nNashiyinche Aathmalan\nNee Dari Cherchu Krupanimmayyaa     ||Idigo||"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "artist": "హోసన్నా మినిస్ట్రీస్,Hosanna Ministries",
+      "writer": "హోసన్నా మినిస్ట్రీస్,Hosanna Ministries",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=l9REunEioUE",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 13,
+          "language": "te",
+          "title": "జుంటె తేనె ధారల కన్నా",
+          "lyric": "జుంటె తేనె ధారల కన్నా\nయేసు నామమే మధురం\nయేసయ్య సన్నిధినే మరువజాలను (2)\nజీవితకాలమంతా ఆనందించెదా\nయేసయ్యనే ఆరాధించెదా (2)          ||జుంటె తేనె||\n\nయేసయ్య నామమే బహు పూజనీయము\nనాపై దృష్టి నిలిపి సంత్రుష్టిగా నను ఉంచి (2)\nనన్నెంతగానో దీవించి\nజీవజలపు ఊటలతో ఉజ్జీవింపజేసెనే (2)      ||జుంటె తేనె||\n\nయేసయ్య నామమే బలమైన దుర్గము\nనా తోడై నిలిచి క్షేమముగా నను దాచి (2)\nనన్నెంతగానో కరుణించి\nపవిత్ర లేఖనాలతో ఉత్తేజింపజేసెనే (2)         ||జుంటె తేనె||\n\nయేసయ్య నామమే పరిమళ తైలము\nనాలో నివసించే సువాసనగా నను మార్చి (2)\nనన్నెంతగానో ప్రేమించి\nవిజయోత్సవాలతో ఊరేగింపజేసెనే (2)         ||జుంటె తేనె||"
+        },
+        {
+          "songId": 13,
+          "language": "en",
+          "title": "Junte Thene Dhaarala Kannaa",
+          "lyric": "Junte Thene Dhaarala Kannaa\nYesu Naamame Madhuram\nYesayya Sannidhine Maruvajaalanu (2)\nJeevithakaalamanthaa Aanandinchedaa\nYesayyane Aaraadhinchedaa (2)   ||Junte Thene||\n\nYesayya Naamame Bahu Poojaneeyamu\nNaapai Drushti Nilipi Santhrushtiga Nanu Unchi (2)\nNannenthagaano Deevinchi\nJeevajalapu Ootalatho Ujjeevimpajesene (2)   ||Junte Thene||\n\nYesayya Naamame Balamaina Durgamu\nNaa Thodai Nilichi Kshemamugaa Nanu Daachi (2)\nNannenthagaano Karuninchi\nPavithra Lekhanaalatho Uththejimpajesene (2)   ||Junte Thene||\n\nYesayya Naamame Parimala Thailamu\nNaalo Nivasinche Suvaasanagaa Nanu Maarchi (2)\nNannenthagaano Preminchi\nVijayothsavaalatho Ooregimpajesene (2)    ||Junte Thene||"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "artist": "Unknown,Unknown",
+      "writer": "Unknown,Unknown",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=62sEX7a-Fi8",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 14,
+          "language": "te",
+          "title": "కలువరిగిరిలో సిలువధారియై",
+          "lyric": "కలువరిగిరిలో సిలువధారియై\nవ్రేలాడితివా నా యేసయ్యా (2)\n\nఅన్యాయపు తీర్పునొంది ఘోరమైన శిక్షను\nద్వేషాగ్ని జ్వాలలో దోషివై నిలిచావా (2)\nనా దోషక్రియలకై సిలువలో బలి అయితివా\nనీ ప్రాణ క్రయ ధనముతో రక్షించితివా (2)            ||కలువరిగిరిలో||\n\nదారి తప్పిపోయిన గోర్రెనై తిరిగాను\nఏ దారి కానరాక సిలువ దరికి చేరాను (2)\nఆకరి రక్తపు బొట్టును నా కొరకై ధారపోసి\nనీ ప్రాణ త్యాగముతో విడిపించితివా (2)                ||కలువరిగిరిలో||"
+        },
+        {
+          "songId": 14,
+          "language": "en",
+          "title": "Kaluvarigirilo Siluvadhaariyai",
+          "lyric": "Kaluvarigirilo Siluvadhaariyai\nVrelaadithivaa Naa Yesayyaa (2)\n\nAnyaayapu Theerpunondi Ghoramaina Shikshanu\nDveshaagni Jwaalalo Doshivai Nilichaavaa (2)\nNaa Doshakriyalakai Siluvalo Bali Aithivaa\nNee Praana Kraya Dhanamutho Rakshinchithivaa (2)   ||Kaluvarigirilo||\n\nDaari Thappipoyina Gorrenai Thirigaanu\nAe Daari Kaanaraaka Siluva Dariki Cheraanu (2)\nAakari Rakthapu Bottunu Naakorakai Dhaaraposi\nNee Praana Thyaagamutho Vidipinchithivaa (2)   ||Kaluvarigirilo||"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "artist": null,
+      "writer": "సరోజిని ప్రకాష్,Sarojini Prakash",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=YiE0MclSYpE",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 15,
+          "language": "te",
+          "title": "లెక్కించలేని స్తోత్రముల్",
+          "lyric": "లెక్కించలేని స్తోత్రముల్\nదేవా ఎల్లప్పుడూ నే పాడెదన్\nదేవా ఎల్లప్పుడూ నే పాడెదన్ (2)\nఇంత వరకు నా బ్రతుకులో (2)\nనువ్వు చేసిన మేళ్ళకై                 ||లెక్కించలేని||\n\nఆకాశ మహాకాశముల్\nవాటియందున్న సర్వంబును (2)\nభూమిలో కనబడునవన్ని (2)\nప్రభువా నిన్నే కీర్తించున్             ||లెక్కించలేని|| \n\nఅడవిలో నివసించువన్ని\nసుడిగాలియు మంచును (2)\nభూమిపైనున్నవన్ని (2)\nదేవా నిన్నే పొగడును                ||లెక్కించలేని|| \n\nనీటిలో నివసించు ప్రాణుల్\nఈ భువిలోన జీవ రాసులు (2)\nఆకాశమున ఎగురునవన్ని (2)\nప్రభువా నిన్నే కీర్తించున్            ||లెక్కించలేని||"
+        },
+        {
+          "songId": 15,
+          "language": "en",
+          "title": "Lekkinchaleni Sthothramul",
+          "lyric": "Lekkinchaleni Sthothramul\nDevaa Ellappudu Ne Paadedan\nDevaa Ellappudu Ne Paadedan (2)\nIntha Varaku Naa Brathukulo (2)\nNuvvu Chesina Mellakai  ||Lekkinchaleni||\n\nAakaasha Mahaakaashamul\nVaatiyandunna Sarvambunu (2)\nBhoomilo Kanabadunavanni (2)\nPrabhuvaa Ninne Keerthinchun   ||Lekkinchaleni||\n\nAdavilo Nivasinchuvanni\nSudigaaliyu Manchunu (2)\nBhoomipainunnavanni (2)\nDevaa Ninne Pogadunu    ||Lekkinchaleni||\n\nNeetilo Nivasinchu Praanul\nEe Bhuvilona Jeeva Raasulu (2)\nAakaashamuna Egurunavanni (2)\nPrabhuvaa Ninne Keerthinchun   ||Lekkinchaleni||"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=S8xYn83i1bY",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 16,
+          "language": "te",
+          "title": "మార్గము చూపుము ఇంటికి",
+          "lyric": "మార్గము చూపుము ఇంటికి – నా తండ్రి ఇంటికి\nమాధుర్య ప్రేమా ప్రపంచమో – చూపించు కంటికి (2)\n\nపాప మమతల చేత – పారిపోయిన నాకు\nప్రాప్తించె క్షామము\nపశ్చాత్తాప్పమునొంది – తండ్రి క్షమ కోరుచు\nపంపుము క్షేమము (2)\nప్రభు నీదు సిలువ – ముఖము చెల్లని నాకు\nపుట్టించె ధైర్యము (2)                    ||మార్గము||\n\nధనమే సర్వంబనుచు- సుఖమే స్వర్గంబనుచు\nతండ్రిని వీడితి\nధరణి భోగములెల్ల – బ్రతుకు ధ్వంసము జేయ\nదేహీ నిను చేరితి (2)\nదేహీ అని నీ వైపు – చేతులెత్తిన నాకు\nదారిని జూపుము (2)     ||మార్గము||\n\nదూర దేశములోన – బాగుందుననుకొనుచు\nతప్పితి మార్గము\nతరలిపోయిరి నేను – నమ్మిన హితులెల్ల\nతరిమే దారిద్య్రము (2)\nదాక్షిణ్య మూర్తి నీ – దయ నాపై కురిపించి\nధన్యుని చేయుము (2)                  ||మార్గము||\n\nఅమ్ముకొంటిని నేను – అధముడొకనికి నాడు\nఆకలి బాధలో\nఅన్యాయమయిపోయే – పందులు సహ వెలివేయ\nఅలవడెను వేదన (2)\nఅడుగంటె అవినీతి – మేల్కొనియె మానవత\nఆశ్రయము గూర్చుము (2)        ||మార్గము||\n\nకొడుకునే కాదనుచు – గృహమే చెరసాలనుచు\nకోపించి వెళ్ళితి\nకూలివానిగనైన – నీ యింట పని చేసి\nకనికరమే కోరుదు (2)\nకాదనకు నా తండ్రి – దిక్కెవ్వరును లేరు\nక్షమియించి బ్రోవుము (2)        ||మార్గము||\n\nనా తండ్రి నను జూచి – పరుగిడిచూ ఏతెంచి\nనాపైబడి ఏడ్చెను\nనవ జీవమును గూర్చి – ఇంటికి తోడ్కొని వెళ్లి\nనన్నూ దీవించెను (2)\nనా జీవిత కథయంత – యేసు ప్రేమకు ధరలో\nసాక్ష్యమై యుండును (2)                    ||మార్గము||"
+        },
+        {
+          "songId": 16,
+          "language": "en",
+          "title": "Maargamu Choopumu Intiki",
+          "lyric": "Maargamu Choopumu Intiki – Naa Thandri Intiki\nMaadhurya Premaa Prapanchamo – Choopinchu Kantiki (2)\n\nPaapa Mamathala Chetha – Paaripoyina Naaku\nPraapthinche Kshaamamu\nPaschaaththappamunondi – Thandri Kshama Koruchu\nPampumu Kshemamu (2)\nPrabhu Needu Siluva – Mukhamu Chellani Naaku\nPuttinche Dhairyamu (2)        ||Maargamu||\n\nDhaname Sarvambanuchu – Sukhame Swargambanuchu\nThandrini Veedithi\nDharani Bhogamulella – Brathuku Dhwamsamu Jeya\nDehi Ninu Cherithi (2)\nDehi Ani Nee Vaipu – Chethuletthina Naaku\nDaarini Joopumu (2)            ||Maargamu||\n\nDoora Deshamulona – Baagundunanukonuchu\nThappithi Maargamu\nTharalipoyiri Nenu – Nammina Hithulella\nTharime Daridryamu (2)\nDaakshinya Moorthy Nee – Daya Naapai Kuripinchi\nDhanyuni Cheyumu (2)           ||Maargamu||\n\nAmmukontini Nenu – Adhamudokaniki Naadu\nAakali Baadhalo\nAnyaayamayipoye – Pandulu Saha Veliveya\nAlavadenu Vedana (2)\nAdugante Avineethi – Melkoniye Maanavatha\nAashrayamu Goorchumu (2)        ||Maargamu||\n\nKodukune Kaadanuchu – Gruhame Cherasaalanuchu\nKopinchi Vellithi\nKoolivaaniganaina – Nee Yinta Pani Chesi\nKanikarame Korudu (2)\nKaadanaku Naa Thandri – Dikkevvarunu Leru\nKshamiyinchi Brovumu (2)       ||Maargamu||\n\nNaa Thandri Nanu Joochi – Parugidichoo Ethenchi\nNaapaibadi Edchenu\nNava Jeevamunu Goorchi – Intiki Thodkoni Velli\nNannoo Deevinchenu (2)\nNaa Jeevitha Kathayantha – Yesu Premaku Dharalo\nSaakshyamai Yundunu (2)          ||Maargamu||"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=zh9H0RID3Ls",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 17,
+          "language": "te",
+          "title": "మూడునాళ్ళ ముచ్చట కోసం",
+          "lyric": "మూడునాళ్ళ ముచ్చట కోసం\nఈ మనిషి పడే తపన చూడరా (2)\nనీటిబుడగలాంటి జీవితం\nఏ నాడు సమసిపోవునో ఎరుగం (2)\n\nమనిషికి తన మనసే చేరసాలరా\nమమతలు మమకారాలే బంధాలురా (2)\nవల్లకాటి వరకేరా భవబంధాలు\nఅవి కళ్లానికి చేరవురా అనుబంధాలు (2)\nకల్లలైన కళలు మానుకో\nఎల్లవేళలా ప్రభువని వేడుకో (2)            ||మూడునాళ్ళ||\n\nఇంద్ర ధనుస్సు లాంటిదోయి సంసారము\nఅది కనిపించీ మాయమయే రంగులవలయం (2)\nగడ్డిపువ్వులాంటిదోయి ఇలలో సౌఖ్యం\nఅది పాపానికి జీతమురా మనిషికి మరణం (2)\nనిత్యమైన సుఖము వెదకరా\nనిరతము ఆ ప్రభుని వేడరా (2)                ||మూడునాళ్ళ||\n\nతప్పిదములు దాచువాడు వర్ధిల్లడు\nఅవి ఒప్పుకొని విడిచిపెట్టు ఓ సోదరా (2)\nజిగటగల ఊభినుండి పైకి లేపి\nనీ పాదములను స్థిరముగా నిలుపును ప్రభువు (2)\nతీర్పు తీర్చబడకమునుపే\nతప్పక ఆ ప్రభుని కోరరా (2)                  ||మూడునాళ్ళ||"
+        },
+        {
+          "songId": 17,
+          "language": "en",
+          "title": "Moodunaalla Muchchata Kosam",
+          "lyric": "Moodunaalla Muchchata Kosam\nEe Manishi Pade Thapana Choodaraa ||2||\nNeetibudagalaanti Jeevitham\nAe Naadu Samasipovunno Erugam ||2||\n\nManishiki Thana Manase Cherasaalaraa\nMamathalu Mamakaaraale Bandhaaluraa ||2||\nVallakaati Varakeraa Bhavabandhaalu\nAvi Kallaaniki Cheravuraa Anubandhaalu ||2||\nKallalaina Kalalu Maanuko\nEllavelalaa Prabhuni Veduko ||2||     ||Moodunaalla||\n\nIndra Dhanussu Laantidoyi Samsaaramu\nAdi Kanipinchi Maayamaye Rangula Valayam ||2||\nGaddipuvvulaantidoyi Ilalo Soukhyam\nAdi Paapaaniki Jeethamura Manishiki Maranam ||2||\nNithyamaina Sukhamu Vedakaraa\nNirathamu Aa Prabhuni Vedaraa ||2||    ||Moodunaalla||\n\nThappidamulu Daachuvaadu Vardhilladu\nAvi Oppukoni Vidichipettu O Sodaraa ||2||\nJigatagala Oobhinundi Paiki Lepi\nNee Paadamulanu Sidhdhamugaa Nilupunu Prabhuvu ||2||\nTheerpu Theerchakabadakamunupe\nThappaka Aa Prabhuni Koraraa ||2||     ||Moodunaalla||"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "artist": null,
+      "writer": "కృపల్ మోహన్,Kripal Mohan",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=yoQTIdVYo0o",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 18,
+          "language": "te",
+          "title": "నా జీవం నా సర్వం",
+          "lyric": "నా జీవం నా సర్వం నీవే దేవా (2)\nనా కొరకే బలి అయిన గొర్రెపిల్ల\nనా కొరకే రానున్న ఓ మెస్సయ్యా      ||నా జీవం||\n\nతప్పిపోయిన నన్ను వెదకి రక్షించి\nమంచి కాపరి నాకై ప్రాణమిచ్చితివి (2)\nఏమివ్వగలను నీ ఎనలేని ప్రేమకై\nవిరిగి నలిగిన హృదయమే నేనర్పింతును (2)    ||నా జీవం||\n\nమరణము జయించి తిరిగి లేచితివి\nనాకు తోడుగా పరిశుద్ధాత్మ నిచ్చితివి (2)\nఅపురూప ప్రేమకై నే సాక్షినై నిలచెదన్\nభూదిగంతము వరకు నే ప్రకటించెదన్ (2)        ||నా జీవం||\n\nనీవే నీవే నీవే దేవా (4)"
+        },
+        {
+          "songId": 18,
+          "language": "en",
+          "title": "Naa Jeevam Naa Sarvam Neeve Devaa",
+          "lyric": "Naa Jeevam Naa Sarvam Neeve Devaa\nNaa Korake Bali Aina Gorrepilla\nNaa Korake Raanunna O Messayya   ||Naa Jeevam||\n\nThappipoyina Nannu Vedaki Rakshinchi\nManchi Kaaparivai Naakai Praanamichchithivi (2)\nEmivvagalanu Nee Enaleni Premakai\nVirigi Naligina Hrudayame Nenarpinthunu (2)  ||Naa Jeevam||\n\nMaranamu Jayinchi Thirigi Lechithivi\nNaaku Thodugaaa Parisdhuddhaathama-nichchithivi (2)\nApuroopa Premakai Ne Saakshinai Nilachedan\nBoodhiganthamu Varaku Ne Prakatinchedan (2)  ||Naa Jeevam||\n\nNeeve Neeve Neeve Devaa (4)"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "artist": null,
+      "writer": "సీయోను గీతాలు,Songs of Zion",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=dgFh4tuS0V4",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 19,
+          "language": "te",
+          "title": "నా ప్రాణప్రియుడా",
+          "lyric": "నా ప్రాణప్రియుడా యేసురాజా\nఅర్పింతును నా హృదయార్పణ\nవిరిగి నలిగిన ఆత్మతోను\nహృదయపూర్వక ఆరాధనతో సత్యముగా\n\nఅద్భుతకరుడా ఆలోచన\nఆశ్చర్య సమాధాన ప్రభువా\nబలవంతుడా బహుప్రియుడా\nమనోహరుడా మహిమరాజా స్తుతించెదన్          ||నా ప్రాణ||\n\nవిమోచన గానములతో\nసౌందర్య ప్రేమ స్తుతులతో\nనమస్కరించి ఆరాధింతున్\nహర్షింతును నే పాడెదను నా ప్రభువా               ||నా ప్రాణ||\n\nగర్భమున పుట్టిన బిడ్డలన్\nకరుణింపక తల్లి మరచునా\nమరచినగాని నీవెన్నడు\nమరువవు విడువవు ఎడబాయవు కరుణ రాజా  ||నా ప్రాణ||\n\nరక్షణాలంకారములను\nఅక్షయమగు నీ యాహారమున్\nరక్షకుడా నాకొసగితివి\nదీక్షతో నిన్ను వీక్షించుచు స్తుతింతును              ||నా ప్రాణ||\n\nనీ నీతిని నీ రక్షణను\nనా పెదవులు ప్రకటించును\nకృతజ్ఞతా స్తుతులతోడ\nనీ ప్రేమను నే వివరింతును విమోచకా              ||నా ప్రాణ||\n\nవాగ్ధానముల్ నాలో నెరవేరెను\nవిమోచించి నాకిచ్చితివే\nపాడెదను ప్రహర్షింతును\nహల్లెలూయా హల్లెలూయా హల్లెలూయా           ||నా ప్రాణ||"
+        },
+        {
+          "songId": 19,
+          "language": "en",
+          "title": "Naa Praanapriyudaa Yesu Raajaa",
+          "lyric": "Naa Praanapriyudaa Yesu Raajaa\nArpinthunu Naa Hrudayaarpana\nVirigi Naligina Aathmathonu\nHrudayapoorvaka Aaraadhantho Sathyamugaa\n\nAdbhuthakarudaa Aalochana\nAascharya Samadhaana Prabhuvaa\nBalavanthudaa Bahupriyudaa\nManoharudaa Mahimaraajaa Sthuthinchedan    ||Naa Praana||\n\nVimochana Gaanamulatho\nSoundarya Prema Sthuthulatho\nNamaskarinchi Aaraadhinthun\nHarshinthunu Ne Paadedanu Naa Prabhuvaa   ||Naa Praana||\n\nGarbhamuna Puttina Biddalan\nKarunimpaka Thalli Marachunaa\nMarachinagaani Neevennadu\nMaruvavu Viduvavu Edabaayavu Karuna Raajaa    ||Naa Praana||\n\nRakshanaalankaaramulanu\nAkshayamagu Nee Yaahaaramun\nRakshakudaa Naakosagithivi\nDeekshatho Ninnu Veekshinchuchu Sthuthinthunu   ||Naa Praana||\n\nNee Neethini Nee Rakshananu\nNaa Pedavulu Prakatinchunu\nKruthagnathaa Sthuthulathoda\nNee Premanu Ne Vivarinthunu Vimochakaa    ||Naa Praana||\n\nVaagdhaanamul Naalo Neraverenu\nVimochinchi Naakichchithive\nPaadedanu Praharshinthunu\nHallelooyaa Hallelooyaa Hallelooyaa     ||Naa Praana||"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=yEnP__gFh98",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 20,
+          "language": "te",
+          "title": "రండి ఉత్సాహించి పాడుదము",
+          "lyric": "రండి ఉత్సాహించి పాడుదము\nరక్షణ దుర్గము మన ప్రభువే (2)\n\nరండి కృతజ్ఞత స్తోత్రముతో\nరారాజు సన్నిధికేగుదము (2)\nసత్ప్రభు నామము కీర్తనలన్\nసంతోష గానము చేయుదము             ||రండి||\n\nమన ప్రభువే మహా దేవుండు\nఘన మహాత్యము గల రాజు (2)\nభూమ్యాగాధపు లోయలును\nభూధర శిఖరములాయనవే                 ||రండి||\n\nసముద్రము సృష్టించెనాయనదే\nసత్యుని హస్తమే భువిజేసెన్ (2)\nఆయన దైవము పాలితుల\nఆయన మేపెడి గొర్రెలము                    ||రండి||\n\nఆ ప్రభు సన్నిధి మోకరించి\nఆయన ముందర మ్రొక్కుదము (2)\nఆయన మాటలు గైకొనిన\nఅయ్యవి మనకెంతో మేలగును              ||రండి||\n\nతండ్రి కుమార శుద్దాత్మకును\nతగు స్తుతి మహిమలు కల్గు గాక (2)\nఆదిని ఇప్పుడు ఎల్లప్పుడూ\nఅయినట్లు యుగములనౌను ఆమెన్       ||రండి||"
+        },
+        {
+          "songId": 20,
+          "language": "en",
+          "title": "Randi Utsaahinchi Paadudamu",
+          "lyric": "Randi Utsaahinchi Paadudamu\nRakshana Durgamu Mana Prabhuve (2)\n\nRandi Kruthagnatha Sthothramutho\nRaaraaju Sannidhikegudamu (2)\nSathprabhu Naamamu Keerthanalan\nSanthosha Gaanamu Cheyudamu    ||Randi||\n\nMana Prabhuve Maha Devundu\nGhana Mahaathyamu Gala Raju (2)\nBhoomyaagaadhapu Loyalunu\nBhoodhara Shikharamulaayanave    ||Randi||\n\nSamudramu Srushtinchenaayanade\nSathyuni Hasthame Bhuvijesen (2)\nAayana Daivamu Paalithula\nAayana Mepedi Gorrelamu     ||Randi||\n\nAa Prabhu Sannidhi Mokarinchi\nAayana Mundara Mrokkudamu (2)\nAayana Maatalu Gaikonina\nAyyavi Manakentho Melagunu    ||Randi||\n\nThandri Kumaara Shudhdhaathmakunu\nThagu Sthuthi Mahimalu Kalgu Gaaka (2)\nAadini Ippudu Ellappudu\nAinatlu Yugamulanounu Aamen    ||Randi||"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "artist": null,
+      "writer": "మల్లెల దావీదు,Mallela Daaveedu",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=GJbjEtF4ww8",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 21,
+          "language": "te",
+          "title": "సాక్ష్యమిచ్చెద మన స్వామి యేసు దేవుడంచు",
+          "lyric": "సాక్ష్యమిచ్చెద మన స్వామి యేసు దేవుడంచు\nసాక్ష్యమనగా గనిన వినిన సంగతులను దెల్పుటయే (2)\nసాక్ష్య మిచ్చు కొరకు నన్ను స్వామి రక్షించె నంచు              ||సాక్ష్య||\n\nదిక్కు దెసయు లేని నన్ను దేవుడెంతో కనికరించి (2)\nమక్కువతో నాకు నెట్లు మనశ్శాంతి నిచ్చినడో                    ||సాక్ష్య||\n\nపల్లెటూళ్ళ జనుల రక్షణ భారము నా పైని గలదు (2)\nపిల్లలకును బెద్దలకును బ్రేమతో నా స్వానుభవము              ||సాక్ష్య||\n\nబోధ చేయలేను వాద ములకు బోను నాక దేల (2)\nనాధు డేసు ప్రభుని గూర్చి నాకు దెలసినంత వరకు              ||సాక్ష్య||\n\nపాపులకును మిత్రుడంచు బ్రాణ మొసగి లేచెనంచు (2)\nబాపముల క్షమించు నంచు బ్రభుని విశ్వసించు డంచు          ||సాక్ష్య||\n\nచోరు లైన జారు లనా చారు లైన నెవ్వరైన (2)\nఘోరపాపు లైన క్రీస్తు కూర్మితో రక్షించు నంచు                     ||సాక్ష్య||\n\nపరమత దూషణము లేల పరిహసించి పలుకు టేల (2)\nఇరుగు పొరుగు వారి కెల్ల యేసు క్రీస్తు దేవు డంచు                ||సాక్ష్య||\n\nఎల్లకాల మూరకుండ నేల యాత్మ శాంతి లేక (2)\nతల్లడిల్లు వారలకును తండ్రి కుమా రాత్మ పేర                       ||సాక్ష్య||"
+        },
+        {
+          "songId": 21,
+          "language": "en",
+          "title": "Saakshyamichcheda",
+          "lyric": "Saakshyamichcheda\nMana Swaami Yesu Devu Danchu\nSaakshyamanaga Ganina Vinina\nSangathulanu Delputaye (2)\nSaakshya Michchu Koraku Nannu\nSwaami Rakshinche Nanchu     ||Saakshyamichcheda||\n\nDikku Desayu Leni Nannu\nDevudentho Kanikarinchi (2)\nMakkuvatho Naaku Netlu\nManashshaanthi Nichchinado    ||Saakshyamichcheda||\n\nPalletoolla Janula Rakshana\nBhaaramu Naa Paini Galadu (2)\nPillalakunu Beddalakunu\nBrematho Naa Swaanubhavamu    ||Saakshyamichcheda||\n\nBodha Cheyalenu Vaada\nMulaku Bonu Naaka Dela (2)\nNaadhu desu Prabhuni Goorchi\nNaaku Delasinantha Varaku     ||Saakshyamichcheda||\n\nPaapulakunu Mithrudanchu\nBraana Mosagi Lechenanchu (2)\nBaapamula Kshaminchu Nanchu\nBrabhuni Vishwasinchu Danchu     ||Saakshyamichcheda||\n\nChoru laina Jaaru lanaa\nChaaru laina Nevvaraina (2)\nGhorapaapu laina Kreesthu\nKoormitho rakshinchu Nanchu      ||Saakshyamichcheda||\n\nParamatha Dooshanamu Laela\nParihasinchi Paluku Taela (2)\nIrugu Porugu Vaari kella\nYesu Kreesthu Devu Danchu      ||Saakshyamichcheda||\n\nEllakaala Moorakunda\nNela Yaathma Shaanthi Leka (2)\nThalladillu Vaaralakunu\nThandri Kumaa Raathma Pera     ||Saakshyamichcheda||"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=xXHwFV8WHPc",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 22,
+          "language": "te",
+          "title": "సదాకాలము నీతో నేను జీవించెదను యేసయ్య",
+          "lyric": "సదాకాలము నీతో నేను జీవించెదను యేసయ్య\nయేసయ్యా యేసయ్యా యేసయ్యా యేసయ్యా (2)         ||సదాకాలము||\n\nపాపాల ఊభిలో పడియున్న నన్ను\nనీ ప్రేమతో నన్ను లేపావయ్యా (2)\nఏ తోడులేని నాకు నా తోడుగా\nనా అండగా నీవు నిలిచావయ్యా (2)             ||యేసయ్యా||\n\nనీ వాత్సల్యమును నాపై చూపించి\nనీ సాక్షిగా నన్ను నిలిపావయ్యా (2)\nఆశ్చర్యకార్యములు ఎన్నో చేసి\nనీ పాత్రగా నన్ను మలిచావయ్యా (2)           ||యేసయ్యా||"
+        },
+        {
+          "songId": 22,
+          "language": "en",
+          "title": "Sadaakaalamu Neetho Nenu",
+          "lyric": "Sadaakaalamu Neetho Nenu\nJeevinchedanu Yessayya\nYesayyaa Yesayyaa Yesayyaa Yesayyaa (2)   ||Sadaakaalamu||\n\nPaapaala Oobhilo Padiyunna Nannu\nNee Prematho Nannu Lepaavayyaa (2)\nAe Thoduleni Naaku Naa Thodugaa\nNaa Andagaa Neevu Nilichaavayyaa (2)      ||Yesayyaa||\n\nNee Vaathsalyamunu Naapai Choopinchi\nNee Saakshigaa Nannu Nilipaavayyaa (2)\nAascharyakaaryamulu Enno Chesi\nNee Paathragaa Nannu Malichaavayyaa (2)   ||Yesayyaa||"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=c4ZZ6P_VcXA",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 23,
+          "language": "te",
+          "title": "సర్వకృపానిధియగు ప్రభువా",
+          "lyric": "సర్వకృపానిధియగు ప్రభువా\nసకల చరాచర సంతోషమా (2)\nస్తోత్రము చేసి స్తుతించెదను\nసంతసముగ నిను పొగడెదను (2)\n\nహల్లెలూయా హల్లెలూయా… హల్లెలూయా హల్లెలూయా\nహల్లెలూయా యని పాడెదను ఆనందముతో సాగెదను\nనేను… ఆనందముతో సాగెదను\n\nప్రేమించి నన్ను వెదకితివి\nప్రీతితో నను రక్షించితివి (2)\nపరిశుద్ధముగా జీవించుటకై\nపాపిని నను కరుణించితివి (2)     ||హల్లెలూయా||\n\nఅల్పకాల శ్రమలనుభవింప\nఅనుదినము కృపనిచ్చితివి (2)\nనాథుని అడుగుజాడలలో\nనడుచుటకు నను పిలిచితివి (2)   ||హల్లెలూయా||\n\nమరణ శరీరము మర్పునొంది\nమహిమ శరీరము పొందుటకై (2)\nమహిమాత్మతో నను నింపితివి\nమరణ భయములను తీర్చితివి (2)     ||హల్లెలూయా||\n\nభువినుండి శ్రేష్ట ఫలముగను\nదేవునికి నిత్య స్వాస్థ్యముగా (2)\nభూజనములలోనుండి నన్ను\nప్రేమించి క్రయ ధనమిచ్చితివి (2)     ||హల్లెలూయా||\n\nఎవరూ పాడని గీతములు\nయేసుతో నేను పాడుటకై  (2)\nహేతువు లేకయే ప్రేమించెన్‌\nయేసుకు నేనేమివ్వగలన్‌ (2)     ||హల్లెలూయా||"
+        },
+        {
+          "songId": 23,
+          "language": "en",
+          "title": "Sarvakrupaanidhiyagu Prabhuvaa",
+          "lyric": "Sarvakrupaanidhiyagu Prabhuvaa\nSakala Charaachara Santhoshamaa (2)\nSthothramu Chesi Sthuthinchedanu\nSanthasamuga Ninu Pogadedanu (2)        ||Sarva||\n\nHallelooyaa Hallelooyaa… Halleooyaa Hallelooyaa\nHallelooyaa Yani Paadedanu Aanandamutho Saagedanu\nNenu… Aanandamutho Saagedanu\n\nPreminchi Nannu Vedakithivi\nPreethitho Nanu Rakshinchithivi (2)\nParishudhdhamuga Jeevinchutakai\nPaapini Nanu Karuninchithivi (2)     ||Hallelooyaa||\n\nAlpakaala Shramalanubhavimpa\nAnudinamu Krupanichchithivi (2)\nNaathuni Adugujaadalalo\nNaduchutaku Nanu Pilichithivi (2)     ||Hallelooyaa||\n\nMarana Shareeramu Maarpunondi\nMahima Shareeramu Pondutakai (2)\nMahimaathmatho Nannu Nimpithivi\nMarana Bhayamulanu Theerchithivi (2)      ||Hallelooyaa||\n\nBhuvi Nundi Shreshta Phalamuganu\nDevuniki Nithya Swaasthyamugaa (2)\nBhoojanamulalo Nundi Nannu\nPreminchi Kraya Dhanamichchithivi (2)       ||Hallelooyaa||\n\nEvaru Paadani Geethamulu\nYesutho Nenu Paadutakai (2)\nHethuvu Lekaye Preminchen\nYesuku Nenemivvagalan (2)         ||Hallelooyaa||"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=iu-esYSapNQ",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 24,
+          "language": "te",
+          "title": "సిలువ చెంత చేరిననాడు",
+          "lyric": "సిలువ చెంత చేరిననాడు\nకలుషములను కడిగివేయున్\nపౌలువలెను సీలవలెను\nసిద్ధపడిన భక్తులజూచి\n\nకొండలాంటి బండలాంటి\nమొండి హృదయంబు మండించు\nపండియున్న పాపులనైన\nపిలచుచుండే పరము చేర      ||సిలువ||\n\nవంద గొర్రెల మందలోనుండి\nఒకటి తప్పి ఒంటరియాయే\nతొంబది తొమ్మిది గొర్రెల విడిచి\nఒంటరియైన గొర్రెను వెదకెన్    ||సిలువ||\n\nతప్పిపోయిన కుమారుండు\nతండ్రిని విడచి తరలిపోయే\nతప్పు తెలిసి తిరిగిరాగా\nతండ్రియతని జేర్చుకొనియే     ||సిలువ||\n\nపాపి రావా పాపము విడచి\nపరిశుద్ధుల విందుల జేర\nపాపుల గతిని పరికించితివా\nపాతాళంబే వారి యంతము    ||సిలువ||"
+        },
+        {
+          "songId": 24,
+          "language": "en",
+          "title": "Siluva Chentha Cherinanaadu",
+          "lyric": "Siluva Chentha Cherinanaadu\nKalushamulanu Kadigiveyun\nPouluvalenu Seelavalenu\nSidhdhapadina Bhakthulajoochi\n\nKondalaanti Bandalaanti\nMondi Hrudayambu Mandinchu\nPandiyunna Paapulanaina\nPilachuchunde Paramu Chera     ||Siluva||\n\nVanda Gorrela Mandalonundi\nOkati Thappi Ontariyaaye\nThombadi Thommidi Gorrela Vidichi\nOntariyaina Gorrenu Vedaken    ||Siluva||\n\nThappipoyina Kumaarundu\nThandrini Vidachi Tharalipoye\nThappu Thelisi Thirigiraaga\nThandriyathani Jerchukoniye    ||Siluva||\n\nPaapi Raava Paapamu Vidachi\nParishudhdhula Vindula Jera\nPaapula Gathini Parikinchithivaa\nPaathaalambe Vaari Yanthamu    ||Siluva||"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": null,
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 25,
+          "language": "te",
+          "title": "సిలువలో బలి అయిన",
+          "lyric": "సిలువలో బలి అయిన దేవుని గొర్రెపిల్ల\nవిలువైన నీ ప్రేమన్ వివరింతున్ శ్రీ యేసు (2)\n\nఆ నాటి యూదులే నిను చంపిరనుకొంటి (2)\nకాదు కాదయ్యయ్యో నా పాప ఋనమునకే (2)       ||సిలువలో||\n\nనా అతిక్రయములకై నలుగ గొట్టబడి (2)\nనా దోషముల నీవు ప్రియముగను మోసితివి (2)      ||సిలువలో||\n\nమృదువైన నీ నుదురు ముండ్ల పోట్లచేత (2)\nసురూప-ము లేక సోలిపోతివ ప్రియుడా (2)             ||సిలువలో||"
+        },
+        {
+          "songId": 25,
+          "language": "en",
+          "title": "Siluvalo Bali Aina Devuni Gorrepilla",
+          "lyric": "Siluvalo Bali Aina Devuni Gorrepilla\nViluvaina Nee Preman Vivarinthun Sree Yesu (2)\n\nAa Naati Yoodule Ninu Champiranukonti (2)\nKaadu Kaadayyayyo Naa Paapa Runamunake (2)   ||Siluvalo||\n\nNaa Athikrayamulakai Naluga Gottabadi (2)\nNaa Doshamula Neevu Priyamuganu Mosithivi (2)   ||Siluvalo||\n\nMruduvaina Nee Nuduru Mundla Potlachetha (2)\nSuroopa-mu Leka Solipothiva Priyudaa (2)  ||Siluvalo||"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=DPAqzgRGKWI",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 26,
+          "language": "te",
+          "title": "సిలువలో సాగింది యాత్ర",
+          "lyric": "సిలువలో సాగింది యాత్ర\nకరుణామయుని దయగల పాత్ర (2)\n\nఇది ఎవరి కోసమో\nఈ జగతి కోసమే\nఈ జనుల కోసమే             ||సిలువలో||\n\nపాలు కారు దేహము పైన\nపాపాత్ముల కొరడాలెన్నో (2)\nనాట్యమాడినాయి నడి వీధిలో నిలిపాయి (2)\nనోరు తెరువ లేదాయే ప్రేమ\nబదులు పలుక లేదాయే ప్రేమ (2)       ||ఇది ఎవరి||\n\nవెనుక నుండి తన్నింది ఒకరు\nతన ముందు నిలిచి నవ్వింది మరి ఒకరు (2)\nగేలి చేసినారు పరిహాసమాడినారు (2)\nనోరు తెరువ లేదాయే ప్రేమ\nబదులు పలుక లేదాయే ప్రేమ (2)       ||ఇది ఎవరి||"
+        },
+        {
+          "songId": 26,
+          "language": "en",
+          "title": "Siluvalo Saagindi Yaathra",
+          "lyric": "Siluvalo Saagindi Yaathra\nKarunaamayuni Dayagala Paathra (2)\n\nIdi Evari Kosamo\nEe Jagathi Kosame\nEe Janula Kosame     ||Siluvalo||\n\nPaalu Kaaru Dehamu Paina\nPaapaathmula Koradaalenno (2)\nNaatyamaadinaayi Nadi Veedhilo Nilipaayi (2)\nNoru Theruva Ledaaye Prema\nBadulu Paluka Ledaaye Prema (2)      ||Idi Evari||\n\nVenuka Nundi Thannindi Okaru\nThana Mundu Nilachi Navvindi Mari Okaru (2)\nGeli Chesinaaru Parihaasamaadinaaru (2)\nNoru Theruva Ledaaye Prema\nBadulu Paluka Ledaaye Prema (2)       ||Idi Evari||"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "artist": "సీయోను గీతాలు,Songs of Zion",
+      "writer": "సీయోను గీతాలు,Songs of Zion",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=ktphe5UCGCE",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 27,
+          "language": "te",
+          "title": "స్తుతియు మహిమ ఘనత నీకే",
+          "lyric": "స్తుతియు మహిమ ఘనత నీకే\nయుగయుగముల వరకు\nఎంతో నమ్మదగిన దేవా (2)       ||స్తుతియు||\n\nమా దేవుడవై మాకిచ్చితివి\nఎంతో గొప్ప శుభ దినము (2)\nమేమందరము ఉత్సాహించి సంతోషించెదము (2)\nకొనియాడెదము మరువబడని మేలుల చేసెనని (2)       ||స్తుతియు||\n\nనీవొక్కడవే గొప్ప దేవుడవు\nఘనకార్యములు చేయుదువు (2)\nనీదు కృపయే నిరంతరము నిలచియుండునుగా (2)\nనిన్ను మేము ఆనందముతో ఆరాధించెదము (2)           ||స్తుతియు||\n\nనీవే మాకు పరమ ప్రభుడవై\nనీ చిత్తము నెరవేర్చితివి (2)\nజీవమునిచ్చి నడిపించితివి నీ ఆత్మ ద్వారా (2)\nనడిపించెదవు సమ భూమిగల ప్రదేశములో నన్ను (2)   ||స్తుతియు||\n\nభరియించితివి శ్రమలు నిందలు\nఓర్చితివన్ని మా కొరకు (2)\nమరణము గెల్చి ఓడించితివి సాతాను బలమున్ (2)\nపరము నుండి మాకై వచ్చే ప్రభు యేసు జయము (2)    ||స్తుతియు||"
+        },
+        {
+          "songId": 27,
+          "language": "en",
+          "title": "Sthuthiyu Mahima Ghantha Neeke",
+          "lyric": "Sthuthiyu Mahima Ghantha Neeke\nYugayugamula Varaku\nEntho Nammadagina Deva (2)   ||Sthuthiyu||\n\nMaa Devudavai Maakichchithivi\nEntho Goppa Shubha Dinamu (2)\nMemandaramu Utsaahinchi Santhoshinchedamu (2)\nKoniyaadedamu Maruvabadani Melula Chesenani (2)   ||Sthuthiyu||\n\nNeevokkadave Goppa Devudavu\nGhanakaaryamulu Cheyuduvu (2)\nNeedu Krupaye Nirantharamu Nilachiyundunugaa (2)\nNinnu Memu Aanandamutho Aaradhinchedamu (2)  ||Sthuthiyu||\n\nNeeve Maaku Parama Prabhudavai\nNee Chiththamu Neraverchithivi (2)\nJeevamunichchi Nadipinchithivi Nee Aathma Dvaaraa (2)\nNadipinchedavu Sama Bhoomigala Pradeshamulo Nannu (2)   ||Sthuthiyu||\n\nBhariyinchithivi Shramalu Nindalu\nOrchithivanni Maa Koraku (2)\nMaranamu Gelchi Odinchithivi Saathaanu Balamun (2)\nParamu Nundi Maakai Vachche Prabhu Yesu Jayamu (2)        ||Sthuthiyu||"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "artist": null,
+      "writer": "ఆంధ్ర క్రైస్తవ కీర్తనలు,Andhra Kraisthava Keerthanalu",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=fo63YVxRowQ",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 28,
+          "language": "te",
+          "title": "తరతరాలలో",
+          "lyric": "తరతరాలలో యుగయుగాలలో జగజగాలలో\nదేవుడు దేవుడు యేసే దేవుడు\nహల్లెలూయా హల్లెలూయా హల్లెలూయా హల్లెలూయా\n\nభూమిని పుట్టించకమునుపు\nలోకము పునాది లేనపుడు    ||దేవుడు||\n\nసృష్టికి శిల్పకారుడు\nజగతికి ఆదిసంభూతుడు       ||దేవుడు||\n\nతండ్రి కుమార ఆత్మయు\nఒకడైయున్న రూపము        ||దేవుడు||"
+        },
+        {
+          "songId": 28,
+          "language": "en",
+          "title": "Tharatharaalalo Yugayugaalalo Jagajagaalalo",
+          "lyric": "Tharatharaalalo Yugayugaalalo Jagajagaalalo\nDevudu Devudu Yese Devudu\nHallelooyaa Hallelooyaa Hallelooyaa Hallelooyaa\n\nBhoomini Puttinchakamunupu\nLokamu Punaadi Lenapudu    ||Devudu||\n\nSrushtiki Shilpakaarudu\nJagathiki Aadisambhoothudu     ||Devudu||\n\nThandri Kumaara Aathmayu\nOkadaiyunna Roopamu      ||Devudu||"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "artist": null,
+      "writer": "పురుషోత్తము చౌదరి,Purushotthamu Chowdary",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=lNkWWpf16nk",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 29,
+          "language": "te",
+          "title": "యెహోవ నా మొర లాలించెను",
+          "lyric": "యెహోవ నా మొర లాలించెను\nదన మహా దయను నను గనించెను\nఅహర్నిశల దీనహీనుడగు నా\nదు హాయనెడు ధ్వని గ్రహించి మనిపెను             ||యెహోవ||\n\nపిశాచి గడిమి బడగొట్టెను\nదన వశాన నను నిలువ బెట్టెను\nప్రశాంత మధుర సు విశేష వాక్ఫల\nనిశాంతమున జే ర్చి సేద దీర్చెను                ||యెహోవ||\n\nమదావలము బోలు నా మదిన్\nదన ప్రదీప్త వాక్యం కూశా హతిన్\nయధేచ్చలన్నిటి గుదించి పాపపు\nమొదల్ తుదల్ నరి కి దరికి జేర్చెను            ||యెహోవ||\n\nఅనీతి వస్త్ర మెడలించెను\nయే సునాథు రక్తమున ముంచెను\nవినూత్న యత్నమే ద నూని యెన్నడు\nగనన్ వినన్ బ్రే మ నాకు జూపెను                 ||యెహోవ||\n\nవిలాపములకు జెవి నిచ్చెను\nశ్రమ కలాపములకు సెలవిచ్చెను\nశిలానగము పై కిలాగి నను సుఖ\nకళావళుల్ మన సులోన నిలిపెను               ||యెహోవ||\n\nఅగణ్య పాపియని త్రోయక\nన న్ను గూర్చి తన సుతుని దా చక\nతెగించి మృతి కొ ప్పగించి పాపపు\nనెగుల్ దిగుల్ సొగ సుగా నణంచెను             ||యెహోవ||"
+        },
+        {
+          "songId": 29,
+          "language": "en",
+          "title": "Yehova Naa Mora Laalinchenu",
+          "lyric": "Yehova Naa Mora Laalinchenu\nDana Mahaa Dayanu Nanu Ganinchenu\nAharnishala Deenaheenudagu Naa\nDu Haayanedu Dhvani\nGrahinchi Manipenu     ||Yehova||\n\nPishaachi Gadimi badagottenu\nDana Vashaana Nanu Niluva Bettenu\nPrashaantha madhura Su Vishesha Vaakphala\nNishaanthamuna Je Rchi Seda Deerchenu     ||Yehova||\n\nMadaavalamu Bolu Naa Madin\nDana Pradeeptha Vaakyaam Kooshaa Hathin\nYadhechchalanniti Gudinchi Paapapu\nModal Thudal Nari ki Dariki Jerchenu     ||Yehova||\n\nAneethi Vasthra Medalinchenu\nYe Sunaathu Rakthamuna Munchenu\nVinoothna Yathname Da Nooni Yennadu\nGanan Vinan Bre Ma Naaku Joopenu     ||Yehova||\n\nVilaapamulaku Jevi Nichchenu\nShrama Kalaapamulaku Selavichchenu\nShilaanagamu Pai Kilaagi Nanu Sukha\nKalaavalul Mana Sulona Nilipenu     ||Yehova||\n\nAganya Paapiyani Throyaka\nNa Nnu Goorchi Thana Suthuni Daa Chaka\nTheginchi Mruthi Ko Ppaginchi Paapapu\nNegul Digul Soga Sugaa Nananchenu     ||Yehova||"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "artist": null,
+      "writer": "ఏ సి కిన్సింగర్, పి డి శుభామని,A C Kinsingar, P D Shubhamani",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=yvFAJoHlbwE",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 30,
+          "language": "te",
+          "title": "యేసుతో ఠీవిగాను పోదమా",
+          "lyric": "యేసుతో ఠీవిగాను పోదమా\nఅడ్డుగా వచ్చు వైరి గెల్వను\nయుద్ధనాదంబుతో బోదము            ||యేసుతో||\n\nరారాజు సైన్యమందు చేరను\nఆ రాజు దివ్య సేవ చేయను (2)\nయేసు రాజు ముందుగా ధ్వజము బట్టి నడువగా (2)\nయేసుతో ఠీవిగాను వెడలను           ||యేసుతో||\n\nవిశ్వాస కవచమును ధరించుచు\nఆ రాజు నాజ్ఞ మదిని నిల్పుచు (2)\nఅనుదినంబు శక్తిని పొందుచున్నవారమై (2)\nయేసుతో ఠీవిగాను వెడలను           ||యేసుతో||\n\nశోధనలు మనల చుట్టి వచ్చినా\nసాతాను అంబులెన్ని తగిలినా (2)\nభయములేదు మనకిక ప్రభువు చెంత నుందుము (2)\nయేసుతో ఠీవిగాను వెడలను           ||యేసుతో||\n\nఓ యువతి యువకులారా చేరుడి\nశ్రీ యేసురాజు వార్త చాటుడి (2)\nలోకమంత ఏకమై యేసునాథు గొల్వను (2)\nసాధనంబెవరు నీవు నేనెగా            ||యేసుతో||"
+        },
+        {
+          "songId": 30,
+          "language": "en",
+          "title": "Yesutho Teevigaanu Podamaa",
+          "lyric": "Yesutho Teevigaanu Podamaa\nAddugaa Vachchu Vairi Gelvanu\nYudhdhanaadambutho Bodamu     ||Yesutho||\n\nRaaraaju Sainyamandu Cheranu\nAa Raaju Divya Seva Cheyanu (2)\nYesu Raaju Mundugaa\nDhvajamu Batti Naduvagaa (2)\nYesutho teevigaanu Vedalanu    ||Yesutho||\n\nVishwaasa Kavachamunu Dharinchuchu\nAa Raaju Naagna Madini Nilpuchu (2)\nAnudinambu Shakthini\nPonduchunnavaaramai (2)\nYesutho teevigaanu Vedalanu    ||Yesutho||\n\nShodhanalu Manala Chutti Vachchinaa\nSaathaanu Ambulenni Thagilinaa (2)\nBhayamuledu Manakika\nPrabhuvu Chentha Nundumu (2)\nYesutho teevigaanu Vedalanu    ||Yesutho||\n\nO Yuvathi Yuvakulaaraa Cherudi\nSree Yesuraaja Vaartha Chaatudi (2)\nLokamantha Yekamai\nYesunaathu Golvanu (2)\nSaadhanambevaru Neevu Nenegaa    ||Yesutho||"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "artist": null,
+      "writer": "ఎం వినోద్ కుమార్,M Vinod Kumar=",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=o9k-rpVLf-A",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 31,
+          "language": "te",
+          "title": "యుద్ధము యెహోవాదే",
+          "lyric": "యుద్ధము యెహోవాదే (4)\n\nరాజులు మనకెవ్వరు లేరు\nశూరులు మనకెవ్వరు లేరు (2)\nసైన్యములకు అధిపతి అయినా\nయెహోవా మన అండ           ||యుద్ధము||\n\nవ్యాధులు మనలను పడద్రోసినా\nబాధలు మనలను కృంగదీసినా (2)\nవిశ్వాసమునకు కర్త అయినా\nయేసయ్యే మన అండ           ||యుద్ధము||\n\nఎరికో గోడలు ముందున్నా\nఎర్ర సముద్రము ఎదురైనా (2)\nఅద్బుత దేవుడు మనకుండా\nభయమేల మనకింకా           ||యుద్ధము||\n\nఅపవాది అయిన సాతాను\nగర్జించు సింహంవలె వచ్చినా (2)\nయూదా గోత్రపు సింహమైనా\nయేసయ్య మన అండ           ||యుద్ధము||"
+        },
+        {
+          "songId": 31,
+          "language": "en",
+          "title": "Yudhdhamu Yehovaade",
+          "lyric": "Yudhdhamu Yehovaade (4)\n\nRaajulu Manakevvaru Leru\nShoorulu Manakevvaru Leru (2)\nSainyamulaku Adhipathi Ainaa\nYehovaa Mana Anda      ||Yudhdhamu||\n\nVyaadhulu Manalanu Padadrosinaa\nBaadhalu Manalanu Krungadeesinaa (2)\nVishwaasamunaku Kartha Ainaa\nYesayye Mana Anda     ||Yudhdhamu||\n\nEriko Godalu Mundunnaa\nErra Samudramu Edurainaa (2)\nAdbutha Devudu Manakunda\nBhayamela Manakinkaa ||Yudhdhamu||\n\nApavaadi Aina Saathaanu\nGarjinchu Simhamvale Vachchinaa (2)\nYuda Gothrapu Simhamainaa\nYesayya Mana Anda     ||Yudhdhamu||"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "artist": null,
+      "writer": "చార్లెస్ వెస్లీ  అనువదించినది:  జే ఈ ఫాడ్ ఫీల్డ్,Charles Wesly  Translator:  J E Faud Field",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=fd-I4gO1BaA",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 32,
+          "language": "te",
+          "title": "దూత పాట పాడుడి",
+          "lyric": "దూత పాట పాడుడి – రక్షకున్ స్తుతించుడి\nఆ ప్రభుండు పుట్టెను – బెత్లెహేము నందున\nభూజనంబు కెల్లను – సౌఖ్య సంభ్రమాయెను\nఆకసంబు నందున – మ్రోగు పాట చాటుడి\nదూత పాట పాడుడి – రక్షకున్ స్తుతించుడి\n\nఊర్ధ్వ లోకమందున  – గొల్వగాను శుద్దులు\nఅంత్య కాలమందున – కన్య గర్భమందున\nబుట్టినట్టి రక్షకా – ఓ ఇమ్మానుయేల్ ప్రభో\nఓ నరావతారుడా – నిన్ను నెన్న శక్యమా\nదూత పాట పాడుడి – రక్షకున్ స్తుతించుడి\n\nరావే నీతి సూర్యుడా – రావే దేవా పుత్రుడా\nనీదు రాక వల్లను – లోక సౌఖ్య మాయెను\nభూ నివాసులందరూ – మృత్యు భీతి గెల్తురు\nనిన్ను నమ్ము వారికి – ఆత్మ శుద్ది కల్గును\nదూత పాట పాడుడి – రక్షకున్ స్తుతించుడి"
+        },
+        {
+          "songId": 32,
+          "language": "en",
+          "title": "Dootha Paata Paadudi Rakshakun Sthuthinchudi",
+          "lyric": "Dootha Paata Paadudi – Rakshakun Sthuthinchudi\nAa Prabhundu Puttenu – Bethlahemu Nanduna\nBhoojanambu Kellanu – Soukhya Sambhramaayenu\nAakasambu Nanduna – Mrogu Paata Chaatudi\nDootha Paata Paadudi – Rakshakun Sthuthinchudi\n\nOordhva Lokamanduna – Golvagaanu Shudhdhulu\nAnthya Kaalamanduna – Kanya Garbhamanduna\nButtinatti Rakshakaa – O Immaanuyel Prabho\nO Naraavathaarudaa – Ninnu Nenna Shakyamaa\nDootha Paata Paadudi – Rakshakun Sthuthinchudi\n\nRaave Neethi Sooryudaa – Raave Deva Puthrudaa\nNeedu Raaka Vallanu – Loka Soukhya Maayenu\nBhoo Nivaasulandaru – Mruthyu Bheethi Gelthuru\nNinnu Nammu Vaariki – Aathma Shudhdhi Kalgunu\nDootha Paata Paadudi – Rakshakun Sthuthinchudi"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=ZaQBohvIlmc",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 33,
+          "language": "te",
+          "title": "శ్రీ యేసుండు జన్మించె రేయిలో",
+          "lyric": "శ్రీ యేసుండు జన్మించె రేయిలో (2)\nనేడు పాయక బెత్లెహేము ఊరిలో (2)           ||శ్రీ యేసుండు||\n\nఆ కన్నియ మరియమ్మ గర్భమందున (2)\nఇమ్మానుయేలనెడి నామమందున (2)        ||శ్రీ యేసుండు||\n\nసత్రమందున పశువులశాల యందున (2)\nదేవపుత్రుండు మనుజుండాయెనందునా (2)  ||శ్రీ యేసుండు||\n\nపట్టి పొత్తి గుడ్డలతో చుట్టబడి (2)\nపశుల తొట్టిలో పరుండ బెట్టబడి (2)             ||శ్రీ యేసుండు||\n\nగొల్లలెల్లరు మిగుల భీతిల్లగా (2)\nదెల్పె గొప్ప వార్త దూత చల్లగా (2)               ||శ్రీ యేసుండు||\n\nమన కొరకొక్క శిశువు పుట్టెను (2)\nధరను మన దోషములబోగొట్టెను (2)            ||శ్రీ యేసుండు||\n\nపరలోకపు సైన్యంబు గూడెను (2)\nమింట వర రక్షకుని గూర్చి పాడెను (2)         ||శ్రీ యేసుండు||\n\nఅక్షయుండగు యేసు పుట్టెను (2)\nమనకు రక్షణంబు సిద్ధపరచెను (2)              ||శ్రీ యేసుండు||"
+        },
+        {
+          "songId": 33,
+          "language": "en",
+          "title": "Sri Yesundu Janminche Reyilo",
+          "lyric": "Sri Yesundu Janminche Reyilo (2)\nNedu Paayaka Bethlehemu Oorilo (2)            ||Sri Yesundu||\n\nAa Kanniya Mariyamma Garbhamanduna (2)\nImmaanuyelanedi Naamamandunaa (2)          ||Sri Yesundu||\n\nSathramanduna Pashuvulashaala Yanduna (2)\nDevaputhrundu Manujundaayenandunaa (2)    ||Sri Yesundu||\n\nPatti Potthi Guddalatho Chuttabadi (2)\nPashula Thottilo Parunda Bettabadi (2)    ||Sri Yesundu||\n\nGollalellaru Migula Bheethillagaa (2)\nThelpe Goppa Vaartha Dootha Challaga (2)   ||Sri Yesundu||\n\nMana Korakokka Shishuvu Puttenu (2)\nDharanu Mana Doshamulabogottenu (2)         ||Sri Yesundu||\n\nParalokapu Sainyambu Goodenu (2)\nMinta Vara Rakshakuni Goorchi Paadenu (2)         ||Sri Yesundu||\n\nAkshayundagu Yesu Puttenu (2)\nManaku Rakshanambu Sidhdhaparachenu (2)  ||Sri Yesundu||"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=nhU-IGM-jtI",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 34,
+          "language": "te",
+          "title": "తూర్పు దిక్కు చుక్క బుట్టె",
+          "lyric": "తూర్పు దిక్కు చుక్క బుట్టె\nమేరమ్మా – ఓ మరియమ్మా (2)\nచుక్కను జూచి మేము వచ్చినాము\nమొక్కి పోవుటకు (2)             ||తూర్పు దిక్కు||\n\nబెత్లెహేము పురము లోని బాలుడమ్మా\nగొప్ప బాలుడమ్మా (2)\nమన పాపముల బాప పుట్టెనమ్మా\nమహిమవంతుడమ్మా (2)        ||తూర్పు దిక్కు||\n\nపశువుల పాకలోని బాలుడమ్మా\nపాపరహితుడమ్మా (2)\nపాపంబు బాపను పుట్టెనమ్మా\nసత్యవంతుడమ్మా (2)             ||తూర్పు దిక్కు||\n\nబంగారం సాంబ్రాణి బోళం తెచ్చినాము\nబాల యేసు నొద్దకు (2)\nబంగారు పాదముల మ్రొక్కెదము\nబహుగ పాడెదము (2)            ||తూర్పు దిక్కు||"
+        },
+        {
+          "songId": 34,
+          "language": "en",
+          "title": "Thoorpu Diku Chukka Butte",
+          "lyric": "Thoorpu Diku Chukka Butte\nMerammaa – O Mariyamma (2)\nChukkanu Joochi Memu Vachchinaamu\nMokki Povutaku (2)                 ||Thoorpu Diku||\n\nBethlehemu Puramu Loni\nBaaludamma – Goppa Baaludamma (2)\nMana Paapamula Baapa Puttenamma\nMahimavanthudamma (2)       ||Thoorpu Diku||\n\nPashuvula Paakaloni\nBaaludamma – Paaparahithudamma (2)\nPaapambu Baapanu Puttenamma\nSathyavanthudamma (2)         ||Thoorpu Diku||\n\nBangaaram Saambraani Bolam\nThechchinaamu – Baala Yesu Noddaku (2)\nBangaaru Paadamula Mrokkedamu\nBahuga Paadedamu (2)          ||Thoorpu Diku||"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=p9t93mHO0LQ",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 35,
+          "language": "te",
+          "title": "రాజులకు రాజు పుట్టెనన్నయ్య",
+          "lyric": "రాజులకు రాజు పుట్టెనన్నయ్య (2)\nరారే చూడ మనమేగుదామన్నయ్య (2)  ||రాజులకు||\n\nయుదాయనే దేశమందన్నయ్య (2)\nయూదులకు గొప్ప రాజు పుట్టెనన్నయ్య (2)  ||రాజులకు||\n\nతారన్ జూచి తూర్పు జ్ఞానులన్నయ్య (2)\nతరలినారే వారు బెత్లెహేమన్నయ్య (2)    ||రాజులకు||\n\nబంగారము సాంబ్రాణి బోళమన్నయ్య (2)\nబాగుగాను శ్రీ యేసు కీయరన్నయ్య (2)  ||రాజులకు||\n\nఆడుదాము పాడుదామన్నయ్య (2)\nవేడుకతో మనమేగుదామన్నయ్య (2)      ||రాజులకు||"
+        },
+        {
+          "songId": 35,
+          "language": "en",
+          "title": "Raajulaku Raaju Puttenannayya",
+          "lyric": "Raajulaku Raaju Puttenannayya (2)\nRaare Chooda Manamelludaamannayya (2)     ||Raajulaku||\n\nYudaayane Deshamandannayya (2)\nYudulaku Goppa Raaju Puttenannayya (2)       ||Raajulaku||\n\nThaaran Joochi Thoorpu Gnaanulannayya (2)\nTharalinaare Vaaru Bethlehemannayya (2)       ||Raajulaku||\n\nBangaaramu Saambraani Bolamannayya (2)\nBaagugaanu Sree Yesu Keeyarannayya (2)     ||Raajulaku||\n\nAadudaamu Paadudaamannayya (2)\nVedukatho Manamelludaamannayya (2)           ||Raajulaku||"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=cMLv5NpXzXE",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 36,
+          "language": "te",
+          "title": "వందనంబొనర్తుమో ప్రభో ప్రభో",
+          "lyric": "వందనంబొనర్తుమో ప్రభో ప్రభో\nవందనంబొనర్తుమో ప్రభో ప్రభో\nవందనంబు తండ్రి తనయ శుద్ధాత్ముడా\nవందనంబు లందుకో ప్రభో                  ||వందనం||\n\nఇన్ని నాళ్ళు ధరను మమ్ము బ్రోచియు\nగన్న తండ్రి మించి ఎపుడు గాచియు\nఎన్నలేని దీవెన లిడు నన్న యేసువా\nయన్ని రెట్లు స్తోత్రములివిగో                ||వందనం||\n\nప్రాత వత్సరంపు బాప మంతయు\nబ్రీతిని మన్నించి మమ్ము గావుము\nనూత నాబ్దమునను నీదు నీతి నొసగుమా\nదాత క్రీస్తు నాథ రక్షకా                       ||వందనం||\n\nదేవ మాదు కాలుసేతు లెల్లను\nసేవకాలి తనువు దినములన్నియు\nనీ వొసంగు వెండి పసిడి జ్ఞానమంత నీ\nసేవకై యంగీకరించుమా                     ||వందనం||\n\nకోతకొరకు దాసజనము నంపుము\nఈ తరి మా లోటుపాట్లు దీర్చుము\nపాతకంబు లెల్ల మాపి భీతి బాపుము\nఖ్యాతి నొందు నీతి సూర్యుడా                ||వందనం||\nవందనంబొనర్తుమో ప్రభో ప్రభో\nవందనంబొనర్తుమో ప్రభో ప్రభోa\nవందనంబు తండ్రి తనయ శుద్ధాత్ముడా\nవందనంబు లందుకో ప్రభో                  ||వందనం||\nమా సభలను పెద్దజేసి పెంచుము\nనీ సువార్త జెప్ప శక్తి నీయుము\nమోసపుచ్చు నందకార మంత ద్రోయుము\nయేసు కృపన్ గుమ్మరించుము             ||వందనం||"
+        },
+        {
+          "songId": 36,
+          "language": "en",
+          "title": "Vandanambonarthumo Prabho Prabho",
+          "lyric": "Vandanambonarthumo Prabho Prabho\nVandanambonarthumo Prabho Prabho\nVandanambu Thandri Thanaya Shudhdhaathmudaa\nVandanambu Landuko Prabho            ||Vandanam||\n\nInni Naallu Dharanu Mammu Brochiyu\nGanna Thandri Minchi Epudu Gaachiyu\nEnnaleni Deevene Lidu Nanna Yesuvaa\nYanni Retlu Sthothramulivigo               ||Vandanam||\n\nPraatha Vathsarampu Baapa Manthayu\nBreethini Manninchi Mammu Gaavumu\nNootha Naabdamunanu Needu Neethi Nosagumaa\nDaatha Kreesthu Naatha Rakshakaa       ||Vandanam||\n\nDeva Maadu Kaalu Sethu Lellanu\nSevakaali Thanuvu Dinamulanniyu\nNee Vosangu Vendi Pasidi Gnaanamantha Nee\nSevakai Yangeekarinchumaa                ||Vandanam||\n\nKotha Koraku Daasa Janamu Nampumu\nEe Thari Maa Lotupaatlu Deerchumu\nPaathakambu Lella Maapi Bheethi Baapumu\nKhyaathi Nondu Neethi Sooryudaa           ||Vandanam||\n\nMaa Sabhalanu Peddajesi Penchumu\nNee Suvaartha Jeppa Shakthi Neeyumu\nMosapuchchu Nandhakaara Mantha Droyumu\nYesu Krupan Gummarinchumu                ||Vandanam||"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=MRKMT_HqEbM",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 37,
+          "language": "te",
+          "title": "వేటగాని ఉరిలో నుండి",
+          "lyric": "వేటగాని ఉరిలో నుండి\nనా ప్రాణాన్ని రక్షించావు\nబలమైన రెక్కల క్రింద\nనాకాశ్రయమిచ్చావు (2)\n\nలేనే లేదయ్యా వేరే ఆధారం\nనా దుర్గమా నా శైలమా\nలేనే లేదయ్యా వేరే ఆధారం\nనా శృంగమా నా కేడెమా\nఆరాధన ఆరాధన – నా తండ్రి నీకే ఆరాధన\nఆరాధన ఆరాధన – నా యేసు నీకే ఆరాధన (2)\n\nరాత్రి వేళ భయముకైననూ\nపగటి వేళ బాణమైననూ\nరోగము నన్నేమి చేయదు\nనా గుడారము సమీపించదు (2) ||లేనే లేదయ్యా||\n\nవేయిమంది పడిపోయినా\nపదివేల మంది కూలిపోయినా\nఅపాయము రానే రాదు\nనా గుడారము సమీపించదు (2) ||లేనే లేదయ్యా||\n\nమానవులను కాపాడుటకు\nనీ దూతలను ఏర్పరిచావు\nరాయి తగలకుండా\nఎత్తి నన్ను పట్టుకున్నావు (2) ||లేనే లేదయ్యా||"
+        },
+        {
+          "songId": 37,
+          "language": "en",
+          "title": "Vetagaani Urilo Nundi",
+          "lyric": "Vetagaani Urilo Nundi\nNaa Praananni Rakshinchaavu\nBalamaina Rekkala Krinda\nNaakaashrayamichchaavu (2)\n\nLene Ledayyaa Vere Aadhaaram\nNaa Durgamaa Naa Shailamaa\nLene Ledayyaa Vere Aadhaaram\nNaa Shrungamaa Naa Kedemaa\nAaraadhana Aaraadhana – Naa Thandri Neeke Aaraadhana\nAaraadhana Aaraadhana – Naa Yesu Neeke Aaraadhana (2)\n\nRaathri Vela Bhayamukainanu\nPagati Vela Baanamainanu\nRogamu Nannemi Cheyadu\nNaa Gudaaramu Sameepinchadu (2)     ||Lene Ledayyaa||\n\nVeyimandi Padipoyinaa\nPadi Vela Mandi Koolipoyinaa\nApaayamu Raane Raadu\nNaa Gudaaramu Sameepinchadu (2)     ||Lene Ledayyaa||\n\nMaanavulanu Kaapaadutaku\nNee Doothalanu Erparichaavu\nRaayi Thagalakundaa\nEtthi Nannu Pattukunnaavu (2)     ||Lene Ledayyaa||"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=bn_LXcA_rws",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 38,
+          "language": "te",
+          "title": "నిత్యము స్తుతించినా",
+          "lyric": "నిత్యము స్తుతించినా\nనీ ఋణము తీర్చలేను\nసమస్తము నీకిచ్చినా\nనీ త్యాగము మరువలేను (2)\n\nరాజా రాజా రాజాధి రాజువు నీవు\nదేవా దేవా దేవాది దేవుడవు (2)           ||నిత్యము||\n\nఅద్వితీయ దేవుడా\nఆది అంతములై యున్నవాడా (2)\nఅంగలార్పును నాట్యముగా\nమార్చివేసిన మా ప్రభు (2)                  ||రాజా||\n\nజీవమైన దేవడా\nజీవమిచ్చిన నాథుడా (2)\nజీవజలముల బుగ్గ యొద్దకు\nనన్ను నడిపిన కాపరి (2)                    ||రాజా||\n\nమార్పులేని దేవుడా\nమాకు సరిపోయినవాడా (2)\nమాటతోనే సృష్టినంతా\nకలుగజేసిన పూజ్యుడా (2)                   ||రాజా||"
+        },
+        {
+          "songId": 38,
+          "language": "en",
+          "title": "Nithyamu Sthuthinchinaa",
+          "lyric": "Nithyamu Sthuthinchinaa\nNee Runamu Theerchalenu\nSamasthamu Neekichchinaa\nNee Thyaagamu Maruvalenu (2)\n\nRaajaa Raajaa Raajaadhi Raajuvu Neevu\nDevaa Devaa Devaadi Devudavu (2)                ||Nithyam||\n\nAdvitheeya Devudaa\nAadi Anthamulai Yunnavaadaa (2)\nAngalaarpunu Naatyamugaa\nMaarchivesina Maa Prabhu (2)               ||Raajaa||\n\nJeevamaina Devudaa\nJeevamichchina Naathudaa (2)\nJeevajalamula Bugga Yoddaku\nNannu Nadipina Kaapari (2)                   ||Raajaa||\n\nMaarpuleni Devudaa\nMaaku Saripoyinavaadaa (2)\nMaatathone Srushtinanthaa\nKalugajesina Poojyudaa (2)                   ||Raajaa||"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "artist": null,
+      "writer": "అల్లారి పెద్ద వీరాస్వామి,Allaari Pedda Veeraaswaami",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=MSXF5RLON54",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 39,
+          "language": "te",
+          "title": "దేవర నీ దీవెనలు",
+          "lyric": "దేవర నీ దీవెనలు\nధారాళముగను వీరలపై\nబాగుగ వేగమే దిగనిమ్ము\nపావన యేసుని ద్వారగను (2)\n\nదంపతులు దండిగ నీ\nధాత్రిలో వెలయుచు సంపదలన్\nసొంపుగ నింపుగ పెంపగుచు\nసహింపున వీరు సుఖించుటకై       ||దేవర నీ||\n\nఈ కవను నీ కరుణన్\nఆకరు వరకును లోకములో\nశోకము లేకయే ఏకముగా\nబ్రాకటముగను జేకొనుము            ||దేవర నీ||\n\nఇప్పగిది నెప్పుడును\nగొప్పగు ప్రేమతో నొప్పుచు దా\nమొప్పిన చొప్పున దప్పకను\nమెప్పుగ బ్రతుకగ బంపు కృపన్      ||దేవర నీ||\n\nతాపములు పాపములు\nమోపుగ వీరిపై రాకుండగా\nగాపుగ బ్రాపుగ దాపునుండి\nయాపదలన్నియు బాపుచును        ||దేవర నీ||\n\nసాధులుగన్ జేయుటకై\nశోధనలచే నీవు శోధింపగా\nకదలక వదలక ముదమున నీ\nపాదము దాపున బాదుకొనన్          ||దేవర నీ||\n\nమెండుగ భూమండలపు\nగండములలో వీరుండగను\nతండ్రిగ దండిగ నండనుండి\nవెండియు వానిని ఖండించావే         ||దేవర నీ||\n\nయిద్దరు వీరిద్దరును\nశుద్ధులై నిన్ను సేవించుటకై\nశ్రద్ధతో బుద్ధిగ సిధ్ధపడన్\nదిద్దుము నీ ప్రియ బిడ్డలుగాన్        ||దేవర నీ||\n\nవాసిగ నీ దాసులము\nచేసిన ఈ మొఱ్ఱల్ దీసికొని\nమా సకలేశ్వర నీ సుతుడ\nయేసుని పేరిట బ్రోవుమామేన్        ||దేవర నీ||"
+        },
+        {
+          "songId": 39,
+          "language": "en",
+          "title": "Devara Nee Deevenalu",
+          "lyric": "Devara Nee Deevenalu\nDhaaraalamuganu Veeralapai\nBaaguga Vegame Diganimmu\nPaavana Yesuni Dvaaraganu (2)\n\nDampathulu Dandiga Nee\nDhaathrilo Velayuchu Sampadalan\nSompuga Nimpuga Pempaguchu\nSahimpuna Veeru Sukhinchutakai      ||Devara Nee||\n\nEe Kavanu Nee Karunan\nAakaru Varakunu Lokamulo\nShokamu Lekaye Ekamugaa\nBraakatamuganu Jekonumu              ||Devara Nee||\n\nIppagidi Neppudunu\nGoppagu Prematho Noppuchu Daa\nMoppina Choppuna Dappakanu\nMeppuga Brathukaga Bampu Krupan      ||Devara Nee||\n\nThaapamulu Paapamulu\nMopuga Veeripai Raakundagaa\nGaapuga Braapuga Daapunundi\nYaapadalanniyu Baapuchunu                  ||Devara Nee||\n\nSaadhulugan Jeyutakai\nShodhanalache Neevu Shodhinpagaa\nKadalaka Vadalaka Mudamuna Nee\nPaadamu Daapuna Baadukonan              ||Devara Nee||\n\nMenduga Bhoomandalapu\nGandamulalo Veerundaganu\nThandriga Dandiga Nandanundi\nVendiyu Vaanini Khandinchave           ||Devara Nee||\n\nIddara Veeriddarunu\nShudhdhulai Ninnu Sevinchutakai\nShradhdhatho Budhdhiga Sidhdhapadan\nDidhdhumu Nee Priya Biddalugaan       ||Devara Nee||\n\nVaasiga Nee Daasulamu\nChesina Ee Moral Deesikoni\nMaa Sakaleshwara Nee Suthuda\nYesuni Perita Brovumaamen                ||Devara Nee||"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "artist": null,
+      "writer": "పి సతీష్ కుమార్,P Satish Kumar",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=SUx1WXSm4vg",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 40,
+          "language": "te",
+          "title": "కనులున్నా కానలేని చెవులున్నా వినలేని",
+          "lyric": "కనులున్నా కానలేని చెవులున్నా వినలేని (2)\nమనసున్నా మతిలేని స్తితియున్నా గతిలేని (2)\nవాడను యేసయ్యా\nఓడిపోయిన వాడను (2)         ||కనులున్నా||\n\nఅన్ని ఉన్నా ఏమిలేని అందరు ఉన్న ఏకాకిని\nదారి ఉన్నా కానరాని చెంతనున్నా చేరలేని\nయేసయ్యా నన్ను విడువకయ్యా (2)\nదిక్కులేని వాడను\nవాడను యేసయ్యా\nచెదరిపోయిన గూడును (2)      ||కనులున్నా||\n\nభాషలున్నా భావములేని ఆత్మ ఉన్నా అవివేకిని\nభక్తి ఉన్నా శక్తిలేని ప్రార్థన ఉన్నా ప్రేమలేని\nయేసయ్యా నన్ను కరుణించుమా (2)\nఫలములేని వాడను\nవాసిని యేసయ్యా\nపేరుకు మాత్రమే విశ్వాసిని (2)     ||కనులున్నా||\n\nబోధ ఉన్నా బ్రతుకులేని\nపిలుపు ఉన్నా ప్రయాసపడని\nసేవ ఉన్నా సాక్ష్యములేని\nసంఘము ఉన్నా ఆత్మలులేని\nయేసయ్యా నన్ను నింపుమయ్యా (2)\nఆత్మలేని వాడను\nపాదిరిని యేసయ్యా\nమాదిరి లేని కాపరిని (2)          ||కనులున్నా||"
+        },
+        {
+          "songId": 40,
+          "language": "en",
+          "title": "Kanulunnaa Kaanaleni Chevulunnaa Vinaleni",
+          "lyric": "Kanulunnaa Kaanaleni Chevulunnaa Vinaleni (2)\nManasunnaa Mathileni Sthithiyunnaa Gathileni (2)\nVaadanu Yesayyaa\nOdipoyina Vaadanu (2)             ||Kanulunnaa||\n\nAnni Unnaa Emi Leni\nAndaru Unna Ekaakini\nDaari Unnaa Kaanaraani\nChenthanunnaa Cheraleni\nYesayyaa Nannu Viduvakayyaa (2)\nDikku Leni Vaadanu\nVaadanu Yesayyaa\nChedaripoyina Goodunu (2)              ||Kanulunnaa||\n\nBhaashalunnaa Bhaavamu Leni\nAathma Unnaa Avivekini\nBakthi Unnaa Shakthi Leni\nPraarthana Unaa Prema Leni\nYesayyaa Nannu Karuninchumaa (2)\nPhalamu Leni Vaadanu\nVaasini Yesayyaa\nPeruku Maathrame Vishwaasini (2)          ||Kanulunnaa||\n\nBodha Unnaa Brathuku Leni\nPilupu Unnaa Prayaasapadani\nSeva Unnaa Saakshyamu Leni\nSanghamu Unnaa Aathmalu Leni\nYesayyaa Nannu Nimpumayyaa (2)\nAathma Leni Vaadani\nPaadirini Yesayyaa\nMaadiri Leni Kaaparini (2)                 ||Kanulunnaa Kaanaleni Chevulunnaa Vinaleni (2)\nManasunnaa Mathileni Sthithiyunnaa Gathileni (2)\nVaadanu Yesayyaa\nOdipoyina Vaadanu (2)             ||Kanulunnaa||\n\nAnni Unnaa Emi Leni\nAndaru Unna Ekaakini\nDaari Unnaa Kaanaraani\nChenthanunnaa Cheraleni\nYesayyaa Nannu Viduvakayyaa (2)\nDikku Leni Vaadanu\nVaadanu Yesayyaa\nChedaripoyina Goodunu (2)              ||Kanulunnaa||\n\nBhaashalunnaa Bhaavamu Leni\nAathma Unnaa Avivekini\nBakthi Unnaa Shakthi Leni\nPraarthana Unaa Prema Leni\nYesayyaa Nannu Karuninchumaa (2)\nPhalamu Leni Vaadanu\nVaasini Yesayyaa\nPeruku Maathrame Vishwaasini (2)          ||Kanulunnaa||\n\nBodha Unnaa Brathuku Leni\nPilupu Unnaa Prayaasapadani\nSeva Unnaa Saakshyamu Leni\nSanghamu Unnaa Aathmalu Leni\nYesayyaa Nannu Nimpumayyaa (2)\nAathma Leni Vaadani\nPaadirini Yesayyaa\nMaadiri Leni Kaaparini (2)                 ||Kanulunnaa||Kanulunnaa||"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "artist": null,
+      "writer": "సిరివెల్ల హనోక్,Sirivella Hanok",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=Qxn7L10Vs3Y",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 41,
+          "language": "te",
+          "title": "నాదంటూ లోకాన ఏదీ లేదయ్యా",
+          "lyric": "నాదంటూ లోకాన ఏదీ లేదయ్యా\nఒకవేళ ఉందంటే నీవిచ్చనదే ప్రభువా (2)\nనీదే నీదే బ్రతుకంతా నీదే (2)             ||నాదంటూ||\n\nనాకు ఉన్న సామర్ధ్యం\nనాకు ఉన్న సౌకర్యం\nనాకు ఉన్న సౌభాగ్యం\nనాకు ఉన్న సంతానం (2)\nఆరగించే ఆహారం అనుభవించే ఆరోగ్యం (2)\nకేవలం నీదేనయ్య (2)             ||నాదంటూ||\n\nనాకు ఉన్న ఈ బలం\nనాకు ఉన్న ఈ పొలం\nత్రాగుచున్న ఈ జలం\nనిలువ నీడ ఈ గృహం (2)\nనిలచియున్న ఈ స్థలం బ్రతుకుచున్న ప్రతి క్షణం (2)\nకేవలం నీదేనయ్య (2)             ||నాదంటూ||"
+        },
+        {
+          "songId": 41,
+          "language": "en",
+          "title": "Naadantu Lokaana Edi Ledayya",
+          "lyric": "Naadantu Lokaana Edi Ledayya\nOkavela Undante Neevichchanade Prabhuvaa (2)\nNeede Neede Brathukanthaa Neede (2)          ||Naadantu||\n\nNaaku Unna Saamardhyam\nNaaku Unna Soukaryam\nNaaku Unna Soubhaagyam\nNaaku Unna Santhaanam (2)\nAaraginche Aahaaram\nAnubhavinche Aarogyam (2)\nKevalam Needenayya (2)              ||Naadantu||\n\nNaaku Unna Ee Balam\nNaaku Unna Ee Polam\nThraaguchunna Ee Jalam\nNiluva Needa Ee Gruham (2)\nNilachiyunna Ee Sthalam\nBrathukuchunna Prathii Kshanam (2)\nKevalam Needenayya (2)              ||Naadantu||"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=9iiNozh7_yM",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 42,
+          "language": "te",
+          "title": "శుద్ధ హృదయం కలుగజేయుము",
+          "lyric": "శుద్ధ హృదయం కలుగజేయుము (3)\n\nనీ వాత్సల్యం నీ బాహుళ్యం\nనీ కృపా కనికరం చూపించుము (2)\nపాపము చేసాను దోషినై ఉన్నాను (2)\nతెలిసియున్నది నా అతిక్రమమే\nతెలిసియున్నది నా పాపములే (2)\nనీ సన్నిధిలో నా పాపములే\nఒప్పుకొందునయ్యా (2)\n\nశుద్ధ హృదయం కలుగజేయుము (2)\nనాలోనా నాలోనా (2)\nశుద్ధ హృదయం కలుగజేయుము (3)\n\nనీ జ్ఞానమును నీ సత్యమును\nనా ఆంతర్యములో పుట్టించుము (2)\nఉత్సాహ సంతోషం నీ రక్షనానందం\nకలుగజేయుము నా హృదయములో (4)\nనీ సన్నిధిలో పరిశుద్దాత్మతో\nనన్ను నింపుమయ్యా (2)         ||శుద్ధ||"
+        },
+        {
+          "songId": 42,
+          "language": "en",
+          "title": "Shudhdhaa Hrudayam Kalugajeyumu",
+          "lyric": "Shudhdhaa Hrudayam Kalugajeyumu (3)\n\nNee Vaathsalyam Nee Baahulyam\nNee Krupaa Kanikaram Choopinchumu (2)\nPaapamu Chesaanu Doshinai Unnaanu (2)\nThelisiyunnadi Naa Athikramame\nThelisiyunnadi Naa Paapamule (2)\nNee Sannidhilo Naa Paapamule\nOppukondunayyaa (2)\n\nShudhdhaa Hrudayam Kalugajeyumu (2)\nNaalonaa Naalonaa (2)\nShudhdhaa Hrudayam Kalugajeyumu (3)\n\nNee Gnaanamunu Nee Sathyamunu\nNaa Aantharyamulo Puttinchumu (2)\nUtsaaha Santhosham Nee Rakshanaanandam\nKalugajeyumu Naa Hrudayamulo (4)\nNee Sannidhilo Parishudhdhaathmatho\nNannu Nimpumayyaa (2)    ||Shudhdhaa||"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=790bkHsKCqo",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 43,
+          "language": "te",
+          "title": "సిల్వలో నాకై కార్చెను  యేసు రక్తము",
+          "lyric": "సిల్వలో నాకై కార్చెను – యేసు రక్తము (2)\nశిలనైన నన్ను మార్చెను – యేసు రక్తము (2)\nయేసు రక్తము – ప్రభు యేసు రక్తము (2)\nఅమూల్యమైన రక్తము – యేసు రక్తము (2)\n\nసమకూర్చు నన్ను తండ్రితో – యేసు రక్తము (2)\nసంధి చేసి చేర్చును – యేసు రక్తము (2)\nయేసు రక్తము – ప్రభు యేసు రక్తము (2)\nఐక్యపరచును తండ్రితో – యేసు రక్తము (2)\n\nసమాధాన పరచును – యేసు రక్తము (2)\nసమస్యలన్ని తీర్చును – యేసు రక్తము (2)\nయేసు రక్తము – ప్రభు యేసు రక్తము (2)\nసంపూర్ణ శాంతినిచ్చును – యేసు రక్తము (2)\n\nనీతిమంతులుగ చేయును – యేసు రక్తము (2)\nదుర్నీతి నంత బాపును – యేసు రక్తము (2)\nయేసు రక్తము – ప్రభు యేసు రక్తము (2)\nనిబంధన నిలుపును రక్తము – యేసు రక్తము (2)\n\nరోగములను బాపును – యేసు రక్తము (2)\nదురాత్మల పారద్రోలును – యేసు రక్తము (2)\nయేసు రక్తము – ప్రభు యేసు రక్తము (2)\nశక్తి బలము నిచ్చును – యేసు రక్తము (2)"
+        },
+        {
+          "songId": 43,
+          "language": "en",
+          "title": "Silvalo Naakai Kaarchenu Yesu Rakthamu",
+          "lyric": "Silvalo Naakai Kaarchenu – Yesu Rakthamu (2)\nShilanaina Nannu Maarchenu – Yesu Rakthamu (2)\nYesu Rakthamu – Prabhu Yesu Rakthamu (2)\nAmoolyamaina Rakthamu – Yesu Rakthamu (2)\n\nSamakoorchu Nannu Thandritho – Yesu Rakthamu (2)\nSandhi Chesi Cherchunu – Yesu Rakthamu (2)\nYesu Rakthamu – Prabhu Yesu Rakthamu (2)\nAikyaparachunu Thandritho – Yesu Rakthamu (2)\n\nSamaadhaana Parachunu – Yesu Rakthamu (2)\nSamasyalanni Theerchunu – Yesu Rakthamu (2)\nYesu Rakthamu – Prabhu Yesu Rakthamu (2)\nSampoorna Shaanthinichchunu – Yesu Rakthamu (2)\n\nNeethimanthuluga Cheyunu – Yesu Rakthamu (2)\nDurneethi Nantha Baapunu – Yesu Rakthamu (2)\nYesu Rakthamu – Prabhu Yesu Rakthamu (2)\nNibandhana Nilupunu Rakthamu – Yesu Rakthamu (2)\n\nRogamulanu Baapunu – Yesu Rakthamu (2)\nDuraathmala Paaradrolunu – Yesu Rakthamu (2)\nYesu Rakthamu – Prabhu Yesu Rakthamu (2)\nShakthi Balamu Nichchunu – Yesu Rakthamu (2)"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "artist": null,
+      "writer": "ఆంధ్ర క్రైస్తవ కీర్తనలు,Andhra Kraisthava Keerthanalu",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=JUSl43LH2CQ",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": null,
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 44,
+          "language": "te",
+          "title": "నడిపించు నా నావా",
+          "lyric": "నడిపించు నా నావా నడి సంద్రమున దేవా\nనవ జీవన మార్గమున నా జన్మ తరియింప       ||నడిపించు||\n\nనా జీవిత తీరమున నా అపజయ భారమున\nనలిగిన నా హృదయమును నడిపించుము లోతునకు\nనా యాత్మ విరబూయ నా దీక్ష ఫలియింప\nనా నావలో కాలిడుము నా సేవ చేకొనుము        ||నడిపించు||\n\nరాత్రంతయు శ్రమపడినా రాలేదు ప్రభు జయము\nరహదారులు వెదకిననూ రాదాయెను ప్రతిఫలము\nరక్షించు నీ సిలువ రమణీయ లోతులలో\nరతణాలను వెదకుటలో రాజిల్లు నా పడవ          ||నడిపించు||\n\nఆత్మార్పణ చేయకయే ఆశించితి నీ చెలిమి\nఅహమును ప్రేమించుచునే అరసితి ప్రభు నీ కలిమి\nఆశ నిరాశాయే ఆవేదనెదురాయే\nఆధ్యాత్మిక లేమిగని అల్లాడే నావలలు              ||నడిపించు||\n\nప్రభు మార్గము విడచితిని ప్రార్థించుట మానితిని\nప్రభు వాక్యము వదలితిని పరమార్థము మరచితిని\nప్రపంచ నటనలలో ప్రావీణ్యమును బొంది\nఫలహీనుడనై యిపుడు పాటింతు నీ మాట       ||నడిపించు||\n\nలోతైన జలములలో లోతున వినబడు స్వరమా\nలోబడుటను నేర్పించి లోపంబులు సవరించి\nలోనున్న ఈవులలో లోటైన నా బ్రతుకు\nలోపించని అర్పనగా లోకేష చేయుమయా         ||నడిపించు||\n\nప్రభు యేసుని శిష్యుడనై ప్రభు ప్రేమలో పాదుకొని\nప్రకటింతును లోకములో పరిశుద్ధుని ప్రేమ కథ\nపరమాత్మ ప్రోక్షణతో పరిపూర్ణ సమర్పణతో\nప్రాణంబును ప్రభు కొరకు పానార్పణము చేతు     ||నడిపించు||"
+        },
+        {
+          "songId": 44,
+          "language": "en",
+          "title": "Nadipinchu Naa Naavaa",
+          "lyric": "Nadipinchu Naa Naavaa – Nadi Sandramuna Devaa\nNava Jeevana Maargamuna – Naa Janma Thariyimpa     ||Nadipinchu||\n\nNaa Jeevitha Theeramuna – Naa Apajaya Bhaaramuna\nNaligina Naa Hrudayamunu – Nadipinchumu Lothunaku\nNaa Yaathma Virabooya – Naa Deeksha Phaliyimpa\nNaa Naavalo Kaalidumu – Naa Seva Chekonumu            ||Nadipinchu||\n\nRaathranthayu Shramapadinaa – Raaledu Prabhu Jayamu\nRahadaarulu Vedakinanoo – Raadaayenu Prathiphalamu\nRakshinchu Nee Siluva – Ramaneeya Lothulalo\nRathanaalanu Vedakutalo – Raajillu Naa Padava             ||Nadipinchu||\n\nAathmarpana Cheyakaye – Aashinchiti Nee Chelimi\nAhamunu Preminchuchune – Arasithi Prabhu Neekalimi\nAasha Nirashaye – Aavedha Nedhuraye\nAadhyathmika Lemigani – Allade Naa Valalu                    ||Nadipinchu||\n\nPrabhu Maargamu Vidachithini – Prardhinchuta Maanithini\nPrabhu Vaakyamu Vadhalithini – Paramardhamu Marachithini\nPrapancha Natanalalo – Praveenyamunu Pondhi\nPhala Heenudanai Ipudu – Paatinthu Nee Maata              ||Nadipinchu||\n\nLothaina Jalamulalo – Lothuna Vinabadu Swaramaa\nLobadutanu Nerpinchi – Lopambulu Savarinchi\nLonunna Eevulalo – Lotaina Naa Brathuku\nLopinchani Arpanagaa – Lokesha Cheyumayaa               ||Nadipinchu||\n\nPrabhu Yesuni Shishyudanai – Prabhu Premalo Paadukoni\nPrakatinthunu Lokamulo – Parishudhdhuni Prema Katha\nParamaathma Prokshanatho – Paripoorna Samarpanatho\nPraanambunu Prabhu Koraku – Praanaarpanamu Chethu   ||Nadipinchu||"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=utLLL1UXVtI",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 45,
+          "language": "te",
+          "title": "భీకరుండౌ మా యెహోవా",
+          "lyric": "భీకరుండౌ మా యెహోవా – పీఠ మెదుటన్ గూడరే\nఏకమై సాష్టాంగపడి సర్వేశ్వరుని గొనియాడరే            ||భీకరుండౌ||\n\nమట్టితోనే మమ్ము నెల్ల – మానవులుగ సృజించెను\nఇట్టి శక్తుండౌ ప్రభున్ మే-మెచ్చుగా మది నెంతుము   || భీకరుండౌ ||\n\nఏరితోడు లేక మము స-ర్వేశ్వరుడు సృష్టించెను\nధారుణిన్ దానొక్కడే మా – దైవమని పూజింతుము     || భీకరుండౌ ||\n\nపుట్టగిట్టన్ జేయ దానై – నట్టి దేవుని శక్తిని\nబట్టుగా లోకస్తులారా – ప్రస్తుతింపరే భక్తిని                 || భీకరుండౌ ||\n\nమేటి సంగీతంబులపై – మింట నారవ మొందను\nజాటరే వేవేల నోళ్ళన్ – సన్నుతుల్ ప్రభు వందను       || భీకరుండౌ ||\n\nమిక్కిలి కష్టంబులతో – మిత్తికిని బాల్పొందను\nదిక్కు లేని గొర్రెలట్లు – దిరుగ జేర్పన్ మందను           || భీకరుండౌ ||"
+        },
+        {
+          "songId": 45,
+          "language": "en",
+          "title": "Bheekarundau Maa Yehovaa",
+          "lyric": "Bheekarundau Maa Yehovaa – Peeta Medutan Goodare\nYekamai Saashtaangapadi – Sar-veshvaruni Goniyaadare   ||Bheekarundau||\n\nMattithone Mammu Nella – Maanavuluga Srujinchenu\nItti Shakthundou Prabhun Me-mechchugaa Madi Nenthumu   ||Bheekarundau||\n\nAerithodu Leka Mamu Sa-rveshvarudu Srushtinchenu\nDhaarunin Daanokkade Maa – Daivamani Poojinthumu   ||Bheekarundau||\n\nPuttaGittan Jeya Daanai – Natti Devuni Shakthini\nBattugaa Lokasthulaaraa – Prasthuthimpare Bhakthini   ||Bheekarundau||\n\nMeti Sangeethambulapai – Minta Naarava Mondanu\nJaatare Vevela Nollan – Sannuthul Prabhu Vandanu    ||Bheekarundau||\n\nMikkili Kashtambulatho – Miththikini Baalpondanu\nDikku Leni Gorrelatlu – Diruga Jerpan Mandanu    ||Bheekarundau||"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=3i24NYCNEfQ",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 46,
+          "language": "te",
+          "title": "నిన్న నేడు నిరంతరం మారనే మారవు",
+          "lyric": "నిన్న నేడు నిరంతరం మారనే మారవు\nనా జ్ఞాపకాలలో చెరగని వాడవు (2)\nనీవే నీవే నమ్మదగినా దేవుడవు\nనీవు నా పక్షమై నిలిచేయున్నావు (2)\n\nయేసయ్యా నీ ప్రత్యక్షతలో\nబయలుపడెనే శాశ్వతా కృప నాకై (2)\nవిడువదే నన్నెల్లప్పుడూ కృప\nవిజయపథమున నడిపించెనే కృప (2)\nవిస్తరించెనే నిన్ను స్తుతించినప్పుడు        ||నిన్న||\n\nయేసయ్యా నీ కృపాతిశయము\nఆదరించెనే శాశ్వత జీవముకై (2)\nమరువదే నన్నెల్లప్పుడూ కృప\nమాణిక్య మణులను మరిపించేనే కృప (2)\nమైమరచితినే నీ కృప తలంచినప్పుడు     ||నిన్న||\n\nయేసయ్యా నీ మహిమైశ్వర్యము\nచూపెనే నీ దీర్ఘశాంతము నాపై (2)\nఆదుకునే నన్నెల్లప్పుడూ కృప\nశాంతి సమరము చేసెనే కృప (2)\nమహిమోన్నతము పొందితి ప్రశాంతతలోనే      ||నిన్న||"
+        },
+        {
+          "songId": 46,
+          "language": "en",
+          "title": "Ninna Nedu Nirantharam Maarane Maaravu",
+          "lyric": "Ninna Nedu Nirantharam Maarane Maaravu\nNaa Gnaapakaalalo Cheragani Vaadavu (2)\nNeeve Neeve Nammadaginaa Devudavu\nNeevu Naa Pakshamai Nilicheyunnaavu (2)\n\nYesayyaa Nee Prathyakshathalo\nBayalupadene Shaashwathaa Krupa Naakai (2)\nViduvade Nannellappudoo Krupa\nVijayapathamuna Nadipinchene Krupa (2)\nVistharinchene Ninnu Sthuthinchinappudu         ||Ninna||\n\nYesayyaa Nee Krupaathishayamu\nAadarinchene Shaashwatha Jeevamukai (2)\nMaruvade Nannellappudoo Krupa\nMaanikya Manulanu Maripinchene Krupa (2)\nMaimarachithine Nee Krupa Thalanchinappudu      ||Ninna||\n\nYesayyaa Nee Mahimaishwaryamu\nChoopene Nee Dheergashaanthamu Naapai (2)\nAadukune Nannellappudoo Krupa\nShaanthi Samaramu Chesene Krupa (2)\nMahimonnathamu Pondithi Prashaanthathalone      ||Ninna||"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=a91WBMN_zVw",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 48,
+          "language": "te",
+          "title": "తేనెకన్న తీయనైనది",
+          "lyric": "తేనెకన్న తీయనైనది\nనా యేసు ప్రేమ – మల్లెకన్న తెల్లనైనది (2)\nనన్ను ప్రేమించెను నన్ను రక్షించెను\nకష్టకాలమందు నాకు తోడైయుండెను (2)     ||తేనెకన్న||\n\nఆగకనే సాగిపోదును\nనా ప్రభువు చూపించు బాటలో (2)\nఅడ్డంకులన్ని నన్ను చుట్టినా\nనా దేవుని నే విడువకుందును (2)           ||తేనెకన్న||\n\nనా వాళ్ళే నన్ను విడిచినా\nనా బంధువులే దూరమైనా (2)\nఏ తోడు లేక ఒంటరినైననూ\nనా తోడు క్రీస్తని ఆనందింతును (2)           ||తేనెకన్న||"
+        },
+        {
+          "songId": 48,
+          "language": "en",
+          "title": "Thenekanna Theeyanainadi",
+          "lyric": "Thenekanna Theeyanainadi\nNaa Yesu Prema – Mallekanna Thellanainadi (2)\nNannu Preminchenu Nannu Rakshinchenu\nKashtakaalamandu Naaku Thodaiyundenu (2)        ||Thenekanna||\n\nAagakane Saagipodunu\nNaa Prabhuvu Choopinchu Baatalo (2)\nAddankulanni Nannu Chuttinaa\nNaa Devuni Ne Viduvakundunu (2)                 ||Thenekanna||\n\nNaa Vaalle Nannu Vidichinaa\nNaa Bandhuvule Dhooramainaa (2)\nAe Thodu Leka Ontarinainanoo\nNaa Thodu Kreesthani Aanandinthunu (2)      ||Thenekanna||"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "artist": null,
+      "writer": "ప్రభు భూషణ్ ప్రత్తిపాటి,Prabhu Bhushan Prathipati",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=7AfKKdkrA5M",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 50,
+          "language": "te",
+          "title": "దినమెల్ల నే పాడినా",
+          "lyric": "దినమెల్ల నే పాడినా కీర్తించినా\nనీ ఋణము నే తీర్చగలనా\nకొనియాడి పాడి నీ సాక్షిగానే\nఇలలో జీవించనా             ||దినమెల్ల||\n\nగాయపడిన సమయాన మంచి సమరయునిలా\nనా గాయాలు కడిగిన దేవా\nఆకలైన వేళలో ఆహారమిచ్చి\nనన్ను పోషించినావు దేవా (2)\nనిను విడువనూ ఎడబాయననినా (2)\nనా యేసయ్య                        ||దినమెల్ల||\n\nనా బలహీనతయందు నా సిలువను మోస్తూ\nనిన్ను పోలి నేను నడిచెదన్\nవెనుకున్నవి మరచి ముందున్న వాటికై\nసహనముతో పరుగెత్తెదన్ (2)\nఉన్నత పిలుపునకు కలుగు బహుమానము (2)\nనేను పొందాలని                     ||దినమెల్ల||"
+        },
+        {
+          "songId": 50,
+          "language": "en",
+          "title": "Dinamella Ne Paadinaa",
+          "lyric": "Dinamella Ne Paadinaa Keerthinchinaa\nNee Runamu Ne Theerchagalanaa\nKoniyaadi Paadi Nee Saakshigaane\nIlalo Jeevinchanaa              ||Dinamella||\n\nGaayapadina Samayaana Manchi Samarayunilaa\nNaa Gaayaalu Kadigina Devaa\nAakalaina Velalo Aahaaramichchi\nNannu Poshinchinaavu Devaa (2)\nNinu Viduvanoo Edabaayananinaa (2)\nNaa Yesayya                       ||Dinamella||\n\nNaa Balaheenathayandu Naa Siluvanu Mosthoo\nNinnu Poli Nenu Nadichedan\nVenukunnavi Marachi Mundunna Vaatikai\nSahanamutho Parugeththedan (2)\nUnnatha Pilupunaku Kalugu Bahumaanamu (2)\nNenu Pondaalani                  ||Dinamella||"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "artist": null,
+      "writer": null,
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=CtUNKAR5BHE",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 52,
+          "language": "te",
+          "title": "మహిమ ఘనతకు అర్హుడవు",
+          "lyric": "మహిమ ఘనతకు అర్హుడవు\nనీవే నా దైవము\nసృష్టికర్త ముక్తి దాత (2)\nమా స్తుతులకు పాత్రుడా\nఆరాధనా నీకే ఆరాధనా నీకే\nఆరాధనా స్తుతి ఆరాధనా ఆరాధనా నీకే (2)\nఆరాధనా నీకే ఆరాధనా నీకే\n\nమన్నాను కురిపించినావు\nబండనుండి నీల్లిచ్చినావు (2)\nయెహోవా ఈరే చూచుకొనును\nసర్వము సమకూర్చును           ||ఆరాధనా||\n\nవ్యాధులను తొలగించినావు\nమృతులను మరి లేపినావు (2)\nయెహోవా రాఫా స్వస్థపరచును\nనను స్వస్థపరచును                 ||ఆరాధనా||"
+        },
+        {
+          "songId": 52,
+          "language": "en",
+          "title": "Mahima Ghanathaku Arhudavu",
+          "lyric": "Mahima Ghanathaku Arhudavu\nNeeve Naa Daivamu\nSrushtikartha Mukthi Daatha (2)\nMaa Sthuthulaku Paathrudaa\nAaraadhanaa Neeke Aaraadhanaa Neeke\nAaraadhanaa Sthuthi Aaraadhanaa Aaraadhanaa Neeke (2)\nAaraadhanaa Neeke Aaraadhanaa Neeke\n\nMannaanu Kuripinchinaavu\nBandanundi Neellichchinaavu (2)\nYehovaa Eerae Choochukonunu (2)\nSarvamu Samakoorchunu             ||Aaraadhanaa||\n\nVyaadhulanu Tholaginchinaavu\nMruthulanu Mari Lepinaavu (2)\nYehovaa Raaphaa Swasthaparachunu (2)\nNanu Swasthaparachunu              ||Aaraadhanaa||"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "artist": "హోసన్నా మినిస్ట్రీస్,Hosanna Ministries",
+      "writer": "హోసన్నా మినిస్ట్రీస్,Hosanna Ministries",
+      "album": null,
+      "composer": null,
+      "duration": null,
+      "audioUrl": "https://www.youtube.com/watch?v=PbFY5PgoYDM",
+      "coverUrl": null,
+      "releaseDate": null,
+      "genre": "Christian",
+      "ogLang": "te",
+      "lyrics": [
+        {
+          "songId": 54,
+          "language": "te",
+          "title": "సుగుణాల సంపన్నుడా",
+          "lyric": "సుగుణాల సంపన్నుడా – స్తుతి గానాల వారసుడా\nజీవింతును నిత్యము నీ నీడలో\nఆస్వాదింతును నీ మాటల మకరందము\n\nయేసయ్య నీతో జీవించగానే\nనా బ్రతుకు బ్రతుకుగా మారేనులే\nనాట్యమాడేను నా అంతరంగము\nఇది రక్షణానంద భాగ్యమే            ||సుగుణాల||\n\nయేసయ్య నిన్ను వెన్నంటగానే\nఆజ్ఞల మార్గము కనిపించెనే\nనీవు నన్ను నడిపించాగలవు\nనేను నడవవలసిన త్రోవలో         ||సుగుణాల||\n\nయేసయ్య నీ కృప తలంచగానే\nనా శ్రమలు శ్రమలుగా అనిపించలేదే\nనీవు నాకిచ్చే మహిమ ఎదుట\nఇవి ఎన్నతగినవి కావే               ||సుగుణాల||"
+        },
+        {
+          "songId": 54,
+          "language": "en",
+          "title": "Sugunaala Sampannudaa",
+          "lyric": "Sugunaala Sampannudaa\nSthuthi Gaanaala Vaarasudaa\nJeevinthunu Nithyamu Nee Needalo\nAaswaadinthunu Nee Maatala Makarandamu\n\nYesayya Neetho Jeevinchagaane\nNaa Brathuku Brathukuga Maarenule\nNaatyamaadenu Naa Antharangamu\nIdi Rakshanaananda Bhaagyame         ||Sugunaala||\n\nYesayya Ninnu Vennantagaane\nAagnala Maargamu Kanipinchene\nNeevu Nannu Nadipinchagalavu\nNenu Nadavavalasina Throvalo            ||Sugunaala||\n\nYesayya Nee Krupa Thalanchagaane\nNaa Shramalu Shramalugaa Anipinchalede\nNeevu Naakichche Mahima Eduta\nIvi Ennathaginavi Kaave                        ||Sugunaala||"
         }
       ]
     }
